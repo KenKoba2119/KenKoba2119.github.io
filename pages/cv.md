@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae / 略歴"
-permalink: /cv/
+permalink: /cv.html
 toc: true
 ---
 
