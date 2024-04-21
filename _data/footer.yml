@@ -1,0 +1,25 @@
+# Footer content is organized in columns, with the first one reserved for social icons (defined in _config.yml).
+# You can also add a small print license statement at the bottom.
+
+# Columns (the more you add, the narrower they will be)
+columns:
+  - description: # E.g. funding acknowledgement. Can be Markdown
+    links:
+  - description:
+    links:
+    - text: Nakata Laboratory
+      href: http://www.me.titech.ac.jp/~nakatalab/index.html
+      new_window: true
+    - text: Department of Industrial Engineering and Economics
+      href: https://educ.titech.ac.jp/iee/
+      new_window: true
+    - text: Tokyo Institute of Technology
+      href: https://www.titech.ac.jp/
+      new_window: true
+    
+    
+
+# Small print license statement to add at the bottom of the footer. Can be Markdown
+# Will be prefixed by "© {{ site.author }}" if defined in _config.yml
+license: >
+  All rights reserved. \| Theme: [Petridish](https://github.com/peterdesmet/petridish)

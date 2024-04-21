@@ -1,0 +1,30 @@
+// Navbar
+
+.navbar {
+  background-color: #1c0240!important;// white!important;
+  border-bottom: 1px solid $gray-200;
+  color: lighten($footer, 75);
+  .navbar-brand {
+    color: lighten($footer, 75);
+    font-weight: bold;
+    img {
+      height: 30px;
+    }
+  }
+
+  // Remove border on .dropdown-menu when .navbar is collapsed
+  @include media-breakpoint-down(lg) {
+    .dropdown-menu {
+      border: none;
+      padding-top: 0;
+      color: lighten($footer, 50);
+    }
+  }
+
+  .navbar-toggler {
+    font-size: 90%;
+    padding: 10px;
+    text-transform: uppercase;
+    color: lighten($footer, 50);
+  }
+}
