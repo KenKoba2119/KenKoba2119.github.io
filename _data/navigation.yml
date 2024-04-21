@@ -3,13 +3,13 @@
 - text: Home # Note that users can also reach the homepage by clicking the site's title on the left in the navbar
   href: /
 - text: CV
-  href: /cv
+  href: /cv.html
 - text: Publications
-  href: /publications
+  href: /publications.html
 - text: Talks
-  href: /talks
+  href: /talks.html
 - text: Teaching
-  href: /teaching
+  href: /teaching.html
 #- text: Documentation
 #  menu: # Dropdown menu (one level deep only)
 #  - text: Installation
