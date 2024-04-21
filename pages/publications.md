@@ -1,6 +1,6 @@
 ---
 title: "Publications / 論文"
-permalink: publications.html
+permalink: /publications/
 toc: true
 ---
 

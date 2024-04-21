@@ -1,6 +1,6 @@
 ---
 title: "Teaching / 担当講義･演習"
-permalink: teaching.html
+permalink: /teaching/
 toc: true
 ---
 

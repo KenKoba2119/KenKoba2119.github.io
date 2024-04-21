@@ -1,6 +1,6 @@
 ---
 title: "Talks / 学会発表"
-permalink: talks.html
+permalink: /talks/
 toc: true
 ---
 
