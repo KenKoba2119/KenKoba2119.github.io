@@ -19,7 +19,8 @@ Last updated : {{ site.time | date: "%b %-d, %Y"  }}
 
 I am an assistant professor in School of Engineering, Tokyo Institute of Technology (Tokyo Tech). 
 Currently, I'm interested in modeling techniques and algorithms on mixed-integer optimization and related problems. 
-In particular, solving mixed-integer conic optimization problems is one of my ongoing research projects. I am also interested in applications of mathematical optimization to other fields such as machine learning, and so on.
+In particular, solving mixed-integer conic optimization problems is one of my ongoing research projects. 
+I am also interested in applications of mathematical optimization to other fields such as machine learning, and so on.
 
 E-mail: kobayashi.k.ar[at-mark]m.titech.ac.jp
 
@@ -34,4 +35,4 @@ E-mail: kobayashi.k.ar[at-mark]m.titech.ac.jp
 - Mathematical Optimization
 - Operations Research
 
-## **News / 近況**
+## **News**
