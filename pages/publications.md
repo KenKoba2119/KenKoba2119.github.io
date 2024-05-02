@@ -25,7 +25,7 @@ arXiv preprint, arXiv:2104.04679 (2021).
 1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:
 **Learning Decision Trees and Forests with Algorithmic Recourse**.  
 Proceedings of the 41st International Conference on Learning Representations (in press).     
-2. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
+1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **Towards assessing and benchmarking risk-return tradeoff of off-policy evaluation**.  
 Proceedings of the International Conference on Learning Representations (in press).     
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2311.18207" >Preprint </a> </span>
