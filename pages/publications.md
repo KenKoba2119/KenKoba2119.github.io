@@ -22,7 +22,7 @@ arXiv preprint, arXiv:2104.04679 (2021).
 {: reversed="reversed"}
 
 ## **Refereed Papers and Proceedings**. 
-1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:
+1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:   
 **Learning Decision Trees and Forests with Algorithmic Recourse**.  
 Proceedings of the 41st International Conference on Learning Representations (in press).     
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
