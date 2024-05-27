@@ -12,7 +12,7 @@ toc: true
 
 ## International Conferences
 1. K. Kobayashi:   
-**Mixed-integer Semidefinite Optimization and Its Applications to Portfolio Optimization**.     
+**Mixed-integer semidefinite optimization and its applications to portfolio optimization**.     
 BiGSEM Economic Seminar, Bielefeld University, May 2024.  
 <span class="badge bg-info">Invited</span>
 2. K. Kobayashi, Y. Takano, and K. Nakata:  
