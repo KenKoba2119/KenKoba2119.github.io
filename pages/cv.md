@@ -138,6 +138,7 @@ RIKEN AIP-FUJITSU Collaboration Center, RIKEN Center for Advanced Intelligence P
 - INFOR: Information Systems and Operational Research
 - Journal of Industrial and Management Optimization
 - Journal of the Operations Research Society of Japan
+- Numerical Algorithms
 - RAIRO - Operations Research 
 - Transactions of the Operations Research Society in Japan
 - AAAI Conference on Artificial Intelligence
