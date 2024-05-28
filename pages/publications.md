@@ -25,7 +25,7 @@ arXiv preprint, arXiv:2104.04679 (2021).
 
 ## **Refereed Papers and Proceedings**. 
 1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:   
-**Learning Decision Trees and Forests with Algorithmic Recourse**.  
+**Learning decision trees and forests with algorithmic recourse**.  
 Proceedings of the 41st International Conference on Machine Learning (in press).     
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **Towards assessing and benchmarking risk-return tradeoff of off-policy evaluation**.  
