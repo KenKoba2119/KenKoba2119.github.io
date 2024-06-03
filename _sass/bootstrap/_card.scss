@@ -70,6 +70,7 @@
   margin-right: $card-spacer-x; // タイトルとサブタイトルの間に余白を設ける
   margin-top: 0; // マージンの調整
   margin-bottom: 0; // マージンの調整
+  min-width: 135px; // ここで幅の下限を設定（必要な幅に調整）
 }
 //.card-title {
 //  margin-bottom: $card-title-spacer-y;
