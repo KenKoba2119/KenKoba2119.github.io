@@ -7,6 +7,9 @@ toc: true
 # Publications
 
 ## **Preprints**
+1. N. Nishimura, K. Kobayashi, K. Nakata:  
+**Balancing Immediate Revenue and Future Off-Policy Evaluation in Coupon Allocation**.  
+arXiv preprint,  arXiv:2407.11039 (2024).
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **SCOPE-RL: a Python library for offline reinforcement learning and off-policy evaluation**.  
 arXiv preprint,  arXiv:2311.18206 (2023). 
@@ -19,18 +22,19 @@ arXiv preprint, arXiv:2205.11099 (2022).
 1. A. Tanaka, A. Sannai, K. Kobayashi, and N. Hamada:  
 **Approximate Bayesian computation of Bézier simplices**.  
 arXiv preprint, arXiv:2104.04679 (2021).
-
-
 {: reversed="reversed"}
+
 
 ## **Refereed Papers and Proceedings**. 
 1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:   
 **Learning decision trees and forests with algorithmic recourse**.  
-Proceedings of the 41st International Conference on Machine Learning (in press).     <span style="color: red; ">[Spotlight Paper]</span>   
-<span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2406.01098" >Preprint </a> </span>  
+Proceedings of the 41st International Conference on Machine Learning, PMLR 235 (2024), 22936--22962. <span style="color: red; ">[Spotlight Paper]</span>   
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://raw.githubusercontent.com/mlresearch/v235/main/assets/kanamori24a/kanamori24a.pdf">PDF </a> 
+</span> <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2406.01098">Preprint </a> </span>   
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **Towards assessing and benchmarking risk-return tradeoff of off-policy evaluation**.  
-Proceedings of the International Conference on Learning Representations (in press).     
+Proceedings of the International Conference on Learning Representations, (2024), https://openreview.net/forum?id=ycF7mKfVGO.     
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=ycF7mKfVGO">PDF </a> 
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2311.18207" >Preprint </a> </span>  
 1. A. Ueta, M. Tanaka, K. Kobayashi, and K. Nakata:   
 **Inverse-optimization-based uncertainty set for robust linear optimization**.  
@@ -38,7 +42,8 @@ Operations Research 2023 Proceedings (in press).
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2312.00391" >Preprint </a> </span>
 1. K. Mizutani, A. Ueta, R. Ueda, R. Oishi, T. Hara, Y. Hoshino, K. Kobayashi, and K. Nakata:  
 **Zero-inflated Poisson tensor factorization for sparse purchase data in E-commerce markets**.  
-Proceedings of the 11th International Conference on Industrial Engineering and Applications (Europe) (in press).
+Proceedings of the 11th International Conference on Industrial Engineering and Applications (Europe), (2024), 158--171.       
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1007/978-3-031-58113-7_14">DOI </a> </span>
 1. M. Higashi, M. Sung, D. Yamane, K. Inamuro, S. Nagai, K. Kobayashi, and K. Nakata:  
 **Decision tree clustering for time series data: an approach for enhanced interpretability and efficiency**.  
 Proceedings of the 20th Pacific Rim International Conference on Artificial Intelligence, (2023), 457--468.  
@@ -129,6 +134,7 @@ Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="http://www.orsj.or.jp/archive2/or59-02/or59_2_81.pdf">PDF </a> </span>
 {: reversed="reversed"}
 
+
 ## **Refereed Workshop Proceedings**
 1. K. Oh, N. Nishimura, M. Sung, K. Kobayashi, and K. Nakata:  
 **An IPW-based unbiased ranking metric in two-sided markets**.  
@@ -183,6 +189,7 @@ Topological Data Analysis and Beyond, Workshop at NeurIPS 2020.
 オペレーションズ・リサーチ, 60 (2015), 752--734.  
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://orsj.org/wp-content/corsj/or60-12/or60_12_752.pdf  ">PDF </a> </span>
 {: reversed="reversed"}
+
 
 <p class="sample" style="text-align:end;">
 <br>
