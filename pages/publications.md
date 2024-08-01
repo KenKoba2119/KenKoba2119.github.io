@@ -8,7 +8,7 @@ toc: true
 
 ## **Preprints**
 1. N. Nishimura, K. Kobayashi, K. Nakata:  
-**Balancing Immediate Revenue and Future Off-Policy Evaluation in Coupon Allocation**.  
+**Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
 arXiv preprint,  arXiv:2407.11039 (2024).
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **SCOPE-RL: a Python library for offline reinforcement learning and off-policy evaluation**.  
