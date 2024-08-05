@@ -6,25 +6,6 @@ toc: true
 
 # Publications
 
-## **Preprints**
-1. N. Nishimura, K. Kobayashi, K. Nakata:  
-**Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
-arXiv preprint,  arXiv:2407.11039 (2024).
-1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
-**SCOPE-RL: a Python library for offline reinforcement learning and off-policy evaluation**.  
-arXiv preprint,  arXiv:2311.18206 (2023). 
-1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:  
-**Counterfactual explanation with missing values**.  
-arXiv preprint, arXiv:2304.14606 (2023).
-1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
-**Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
-arXiv preprint, arXiv:2205.11099 (2022).
-1. A. Tanaka, A. Sannai, K. Kobayashi, and N. Hamada:  
-**Approximate Bayesian computation of Bézier simplices**.  
-arXiv preprint, arXiv:2104.04679 (2021).
-{: reversed="reversed"}
-
-
 ## **Refereed Papers and Proceedings**. 
 1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:   
 **Learning decision trees and forests with algorithmic recourse**.  
@@ -134,6 +115,24 @@ Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 **ファジィクラスタワイズ回帰を用いた共同購入型クーポンサイトの閲覧傾向分析**.  
 オペレーションズ・リサーチ, 59 (2014), 81--87.  
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="http://www.orsj.or.jp/archive2/or59-02/or59_2_81.pdf">PDF </a> </span>
+{: reversed="reversed"}
+
+## **Preprints**
+1. N. Nishimura, K. Kobayashi, K. Nakata:  
+**Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
+arXiv preprint,  arXiv:2407.11039 (2024).
+1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
+**SCOPE-RL: a Python library for offline reinforcement learning and off-policy evaluation**.  
+arXiv preprint,  arXiv:2311.18206 (2023). 
+1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:  
+**Counterfactual explanation with missing values**.  
+arXiv preprint, arXiv:2304.14606 (2023).
+1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
+**Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
+arXiv preprint, arXiv:2205.11099 (2022).
+1. A. Tanaka, A. Sannai, K. Kobayashi, and N. Hamada:  
+**Approximate Bayesian computation of Bézier simplices**.  
+arXiv preprint, arXiv:2104.04679 (2021).
 {: reversed="reversed"}
 
 
