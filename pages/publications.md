@@ -9,7 +9,7 @@ toc: true
 ## **Refereed Papers and Proceedings**. 
 1. N. Nishimura, K. Kobayashi, and K. Nakata:  
 **Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
-Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence (in press).
+Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence (in press).    
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2407.11039" >Preprint </a> </span>  
 1. 	S. Yamao, K. Kobayashi, K. Kanamori, T. Takagi, Y. Ike, and K. Nakata:  
 **Distribution-aligned sequential counterfactual explanation with local outlier factor**.    
