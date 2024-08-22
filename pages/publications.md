@@ -13,7 +13,7 @@ Proceedings of the 21st Pacific Rim International Conference on Artificial Intel
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2407.11039" >Preprint </a> </span>  
 1. 	S. Yamao, K. Kobayashi, K. Kanamori, T. Takagi, Y. Ike, and K. Nakata:  
 **Distribution-aligned sequential counterfactual explanation with local outlier factor**.    
-Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence (in press)
+Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence (in press).
 1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:   
 **Learning decision trees and forests with algorithmic recourse**.  
 Proceedings of the 41st International Conference on Machine Learning, PMLR 235 (2024), 22936--22962.    
