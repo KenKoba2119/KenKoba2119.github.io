@@ -18,7 +18,10 @@ Department of Industrial and Systems Engineering, Faculty of Engineering, Tokyo 
 東京工業大学 工学部 経営システム工学科
 
 ## **Work Experience**
-- **Apr 2022 -- present: Assistant Professor / 助教**  
+- **Oct 2024 -- present: Assistant Professor / 助教**  
+  School of Engineering, Institute of Science Tokyo  
+  東京科学大学 工学院
+- **Apr 2022 -- Sep 2024: Assistant Professor / 助教**  
   School of Engineering, Tokyo Institute of Technology  
   東京工業大学 工学院
 - **Apr 2021 -- Mar 2022: Researcher / 研究員**  
