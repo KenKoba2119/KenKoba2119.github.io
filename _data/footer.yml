@@ -13,10 +13,9 @@ columns:
     - text: Department of Industrial Engineering and Economics
       href: https://educ.titech.ac.jp/iee/
       new_window: true
-    - text: Tokyo Institute of Technology
-      href: https://www.titech.ac.jp/
+    - text: Institute of Science Tokyo
+      href: https://www.isct.ac.jp
       new_window: true
-    
     
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
