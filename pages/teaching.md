@@ -8,7 +8,7 @@ toc: true
 
 ## **FY2024**
 - Introduction to Robust and Distributionally Robust Optimization (BiGSEM Mini Course, Bielefeld University). 
-- Data Aanalysis for Industrial Engineering and Economics  (IEE.B337)    
+- Data Analysis for Industrial Engineering and Economics  (IEE.B337)    
 経営･経済のためのデータ解析
 - Reading in Industrial Engineering and Economics S  (IEE.B401)     
 経営工学・経済学輪講S 
@@ -16,7 +16,7 @@ toc: true
 経営工学・経済学輪講F 
 
 ## **FY2023**
-- Data Aanalysis for Industrial Engineering and Economics  (IEE.B337)    
+- Data Analysis for Industrial Engineering and Economics  (IEE.B337)    
 経営･経済のためのデータ解析
 - Reading in Industrial Engineering and Economics S  (IEE.B401)     
 経営工学・経済学輪講S 
@@ -24,7 +24,7 @@ toc: true
 経営工学・経済学輪講F 
 
 ## **FY2022**
-- Data Aanalysis for Industrial Engineering and Economics  (IEE.B337)    
+- Data Analysis for Industrial Engineering and Economics  (IEE.B337)    
 経営･経済のためのデータ解析
 - Reading in Industrial Engineering and Economics S  (IEE.B401)     
 経営工学・経済学輪講S 
