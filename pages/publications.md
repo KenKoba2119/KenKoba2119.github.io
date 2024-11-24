@@ -22,7 +22,7 @@ Proceedings of the 41st International Conference on Machine Learning, PMLR 235 (
  <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2406.01098">Preprint </a> </span>   
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **Towards assessing and benchmarking risk-return tradeoff of off-policy evaluation**.  
-Proceedings of the International Conference on Learning Representations, (2024).     
+Proceedings of the International Conference on Learning Representations (2024).     
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=ycF7mKfVGO">PDF </a>  </span> 
  &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2311.18207" >Preprint </a> </span>  
@@ -125,9 +125,6 @@ Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 {: reversed="reversed"}
 
 ## **Preprints**
-1. N. Nishimura, K. Kobayashi, K. Nakata:  
-**Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
-arXiv preprint,  arXiv:2407.11039 (2024).
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **SCOPE-RL: a Python library for offline reinforcement learning and off-policy evaluation**.  
 arXiv preprint,  arXiv:2311.18206 (2023). 
