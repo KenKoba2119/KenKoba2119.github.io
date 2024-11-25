@@ -18,7 +18,7 @@
     {% if item.collection == 'posts' %}
       <div class="d-flex align-items-center">
         <p class="card-subtitle mb-0" style="margin-right: 1rem;">
-          {{ item.date | date: "%Y 年 %m 月 %d 日" }}
+          {{ item.date | date: "%b %d, %Y" }}
         </p>
         <a href="{{ item.url | relative_url }}" class="card-title" style="margin-left: 1rem;">
           {{ item.title }}
