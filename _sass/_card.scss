@@ -10,33 +10,27 @@
 }
 
 .card {
-  //margin-bottom: $grid-gutter-width;
-  min-width: 100%; // Use allowed width even if content is smaller
-  border: 1px solid transparent; // This makes the border transparent
-  height: $card-height;
-  .card-title {
-    margin-bottom: .75rem;
-  }
-
-  .card-img-top {
-    display: none;
-  }
+  margin-bottom: $grid-gutter-width*0.1;
+  //min-width: 100%; // Use allowed width even if content is smaller
 
   .card-subtitle {
     color: $gray-600;
+    margin-top: 0rem;
     margin-bottom: 0rem;
-    margin-left: 16px; // 左に余白を追加
   }
-  
-  
-  .card-text:last-child {
-    display: none;
+  .card-title {
+    margin-top: 0rem;
+    margin-bottom: 0rem; 
+    a {
+      text-decoration: none;
+    }
   }
+
   .card-footer {
-    display: none;
     background: inherit;
     border-top: none;
-
+    margin-top: 0rem;
+    margin-bottom: 0rem;
     // Smaller badge then the one defined in _header.scss
     .badge {
       border: 1px solid $link-color;
@@ -44,7 +38,8 @@
       font-family: $font-family-base;
       text-decoration: none;
       text-transform: uppercase;
-
+      margin-top: 0;  // 上のマージンを無くす
+      margin-bottom: 0;  // 下のマージンを無くす
       &:hover,
       &:focus {
         border: 1px solid $link-hover-color;
