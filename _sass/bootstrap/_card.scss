@@ -46,43 +46,22 @@
 .card-body {
   // Enable `flex-grow: 1` for decks and groups so that card blocks take up
   // as much space as possible, ensuring footers are aligned to the bottom.
-  //flex: 1 1 auto;
-  display: flex; 
-  padding: 0 0; //$card-spacer-y $card-spacer-x;
+  flex: 1 1 auto;
+  padding: $card-spacer-y $card-spacer-x;
   color: $card-color;
-  margin-top: 0;
 }
 
 .card-title {
-  order: 2; // タイトルを後に表示
-  font-size: 12pt!important; // サブタイトルのフォントサイズを小さく設定
-  margin-left: $card-spacer-x; // タイトルとサブタイトルの間に余白を設ける
-  flex: none; // タイトルがコンテンツの幅に基づいてサイズを決定
-  white-space: nowrap; // タイトルを1行で表示（折り返しなし）
+  margin-bottom: $card-title-spacer-y;
 }
 
 .card-subtitle {
-  order: 1; // サブタイトルを先に表示
-  font-size: 12pt!important; // サブタイトルのフォントサイズを小さく設定
-  flex: none; 
-  font-weight: bold; // サブタイトル太字
-  white-space: nowrap; // サブタイトルを1行で表示（折り返しなし）
-  margin-right: $card-spacer-x; // タイトルとサブタイトルの間に余白を設ける
-  margin-top: 0; // マージンの調整
-  margin-bottom: 0; // マージンの調整
-  min-width: 135px; // ここで幅の下限を設定（必要な幅に調整）
+  margin-top: -$card-title-spacer-y * .5;
+  margin-bottom: 0;
 }
-//.card-title {
-//  margin-bottom: $card-title-spacer-y;
-//}
-
-//.card-subtitle {
-//  margin-top: -$card-title-spacer-y * .5;
-//  margin-bottom: 0;
-//}
 
 .card-text:last-child {
-  margin-bottom: 1rem;
+  margin-bottom: 0;
 }
 
 .card-link {
