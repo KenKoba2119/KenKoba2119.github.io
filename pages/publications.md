@@ -7,9 +7,15 @@ toc: true
 # Publications
 
 ## **Refereed Papers and Proceedings**. 
+1. S. Koguchi, K. Nakata, K. Kobayashi, K. Kawakami, T. Nakajima, and K. Kratzer:  
+**Online Joint Optimization of Sponsored Search Ad Bid Amounts and Product Prices on E-commerce**.  
+Proceedings of the 14th International Conference on Operations Research and Enterprise Systems, (in press).
+1. A. Suzuki, K. Kobayashi, K. Nakata, Y. Kurume, N. Sawasaki, and Y. Sasamoto:  
+**Decision diagram optimization for allocating patients to medical diagnosis**.  
+Operations Research 2024 Proceedings, (in press).
 1. N. Nishimura, K. Kobayashi, and K. Nakata:  
 **Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
-Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence (2024), 422--428.    
+Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, (2024), 422--428.    
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1007/978-981-96-0125-7_35" >DOI </a> </span>
  &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2407.11039" >Preprint </a> </span>  
@@ -144,13 +150,16 @@ arXiv preprint, arXiv:2104.04679 (2021).
 
 
 ## **Refereed Workshop Proceedings**
+1. S. Nagai, R. Inaba, R. Oishi, S. Aikawa, Y. Mibuchi, H. Moriyama, K. Kobayashi, and K. Nakata:  
+**Zero-shot demand forecasting for products with limited sales periods**.  
+The 7th Workshop on Big Data for Economic and Business Forecasting, Workshop at IEEE International Conference on Big Data 2024, (2024).
 1. K. Oh, N. Nishimura, M. Sung, K. Kobayashi, and K. Nakata:  
 **An IPW-based unbiased ranking metric in two-sided markets**.  
-Causal Inference and Machine Learning in Practice, Workshop at KDD 2023.  
+Causal Inference and Machine Learning in Practice, Workshop at KDD 2023, (2023).  
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2307.10204" >Preprint </a> </span>
 1. M. Kajitani, K. Kobayashi, Y. Ike, T. Yamanashi, Y. Umeda, Y. Kadooka, and G. Shinozaki:  
 **Application of topological data analysis to delirium detection**.  
-Topological Data Analysis and Beyond, Workshop at NeurIPS 2020.  
+Topological Data Analysis and Beyond, Workshop at NeurIPS 2020, (2020).  
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/pdf?id=szTsSnY3EaT">PDF </a> </span>
 {: reversed="reversed"}
 
