@@ -9,11 +9,14 @@ toc: true
 ## **Refereed Papers and Proceedings**. 
 1. N. Nishimura, K. Kobayashi, and K. Nakata:  
 **Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
-Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence (in press).    
+Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence (2024), 422--428.    
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1007/978-981-96-0125-7_35" >DOI </a> </span>
+ &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2407.11039" >Preprint </a> </span>  
 1. 	S. Yamao, K. Kobayashi, K. Kanamori, T. Takagi, Y. Ike, and K. Nakata:  
 **Distribution-aligned sequential counterfactual explanation with local outlier factor**.    
-Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence (in press).
+Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, (2024), 243--256.   
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1007/978-981-96-0116-5_20" >DOI </a> </span>  
 1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:   
 **Learning decision trees and forests with algorithmic recourse**.  
 Proceedings of the 41st International Conference on Machine Learning, PMLR 235 (2024), 22936--22962.    
@@ -22,7 +25,7 @@ Proceedings of the 41st International Conference on Machine Learning, PMLR 235 (
  <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2406.01098">Preprint </a> </span>   
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **Towards assessing and benchmarking risk-return tradeoff of off-policy evaluation**.  
-Proceedings of the International Conference on Learning Representations (2024).     
+Proceedings of the International Conference on Learning Representations, (2024).     
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=ycF7mKfVGO">PDF </a>  </span> 
  &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2311.18207" >Preprint </a> </span>  
