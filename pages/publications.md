@@ -8,7 +8,7 @@ toc: true
 
 ## **Refereed Papers and Proceedings**. 
 1. S. Koguchi, K. Nakata, K. Kobayashi, K. Kawakami, T. Nakajima, and K. Kratzer:  
-**Online Joint Optimization of Sponsored Search Ad Bid Amounts and Product Prices on E-commerce**.  
+**Online joint optimization of sponsored search ad bid amounts and product prices on E-commerce**.  
 Proceedings of the 14th International Conference on Operations Research and Enterprise Systems, (in press).
 1. A. Suzuki, K. Kobayashi, K. Nakata, Y. Kurume, N. Sawasaki, and Y. Sasamoto:  
 **Decision diagram optimization for allocating patients to medical diagnosis**.  
