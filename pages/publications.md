@@ -7,12 +7,15 @@ toc: true
 # Publications
 
 ## **Refereed Papers and Proceedings**. 
+1. Y. Hikima, K. Kobayashi, A. Tanaka, A. Sannai, and N. Hamada:  
+**Stochastic Gradient Descent for Bézier Simplex Representation of Pareto Set in Multi-Objective Optimization**.  
+Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (in press).
 1. S. Koguchi, K. Nakata, K. Kobayashi, K. Kawakami, T. Nakajima, and K. Kratzer:  
 **Online joint optimization of sponsored search ad bid amounts and product prices on E-commerce**.  
-Proceedings of the 14th International Conference on Operations Research and Enterprise Systems, (in press).
+Proceedings of the 14th International Conference on Operations Research and Enterprise Systems (in press).
 1. A. Suzuki, K. Kobayashi, K. Nakata, Y. Kurume, N. Sawasaki, and Y. Sasamoto:  
 **Decision diagram optimization for allocating patients to medical diagnosis**.  
-Operations Research 2024 Proceedings, (in press).
+Operations Research 2024 Proceedings (in press).
 1. N. Nishimura, K. Kobayashi, and K. Nakata:  
 **Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
 Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, (2024), 422--428.    
