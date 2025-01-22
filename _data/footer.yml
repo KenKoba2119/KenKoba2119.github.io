@@ -7,8 +7,11 @@ columns:
     links:
   - description:
     links:
+    - text: Kobayashi Laboratory
+      href: https://isct-koba-lab.github.io/
+      new_window: true
     - text: Nakata Laboratory
-      href: http://www.me.titech.ac.jp/~nakatalab/index.html
+      href: https://www.nakatalab.iee.e.titech.ac.jp/
       new_window: true
     - text: Department of Industrial Engineering and Economics
       href: https://educ.titech.ac.jp/iee/
