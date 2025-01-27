@@ -8,7 +8,7 @@ toc: true
 
 ## **Refereed Papers and Proceedings**. 
 1. Y. Hikima, K. Kobayashi, A. Tanaka, A. Sannai, and N. Hamada:  
-**Stochastic Gradient Descent for Bézier Simplex Representation of Pareto Set in Multi-Objective Optimization**.  
+**Stochastic gradient descent for Bézier simplex representation of Pareto set in multi-objective optimization**.  
 Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (in press).
 1. S. Koguchi, K. Nakata, K. Kobayashi, K. Kawakami, T. Nakajima, and K. Kratzer:  
 **Online joint optimization of sponsored search ad bid amounts and product prices on E-commerce**.  
