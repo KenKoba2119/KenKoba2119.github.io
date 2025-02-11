@@ -159,7 +159,8 @@ arXiv preprint, arXiv:2104.04679 (2021).
 ## **Refereed Workshop Proceedings**
 1. S. Nagai, R. Inaba, R. Oishi, S. Aikawa, Y. Mibuchi, H. Moriyama, K. Kobayashi, and K. Nakata:  
 **Zero-shot demand forecasting for products with limited sales periods**.  
-The 7th Workshop on Big Data for Economic and Business Forecasting, Workshop at IEEE International Conference on Big Data 2024, (2024).
+The 7th Workshop on Big Data for Economic and Business Forecasting, Workshop at IEEE International Conference on Big Data 2024, (2024).  
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1109/BigData62323.2024.10825549">DOI </a> </span>  
 1. K. Oh, N. Nishimura, M. Sung, K. Kobayashi, and K. Nakata:  
 **An IPW-based unbiased ranking metric in two-sided markets**.  
 Causal Inference and Machine Learning in Practice, Workshop at KDD 2023, (2023).  
