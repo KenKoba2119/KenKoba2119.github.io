@@ -6,8 +6,8 @@ toc: true
 
 # Publications
 
-## **Refereed Papers and Proceedings**. 
-1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, T. Kitaguch:  
+## **Refereed Papers and Proceedings** 
+1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguch:  
 **Prediction of single-mutation effects for fluorescent immunosensor engineering with an end-to-end trained protein language model**.  
 JACS Au, (in press).  
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1021/jacsau.4c01189" >DOI </a> </span>
