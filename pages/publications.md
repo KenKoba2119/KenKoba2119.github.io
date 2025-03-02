@@ -9,13 +9,14 @@ toc: true
 ## **Refereed Papers and Proceedings** 
 1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguch:  
 **Prediction of single-mutation effects for fluorescent immunosensor engineering with an end-to-end trained protein language model**.  
-JACS Au, (2025).  
+JACS Au, (2025), DOI: 10.1021/jacsau.4c01189.  
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1021/jacsau.4c01189" >DOI </a> </span>
 1. Y. Hikima, K. Kobayashi, A. Tanaka, A. Sannai, and N. Hamada:  
 **Stochastic gradient descent for Bézier simplex representation of Pareto set in multi-objective optimization**.  
-Proceedings of the 28th International Conference on Artificial Intelligence and Statistics (in press).
+Proceedings of the 28th International Conference on Artificial Intelligence and Statistics, (2025), 67--78.
 1. S. Koguchi, K. Nakata, K. Kobayashi, K. Kawakami, T. Nakajima, and K. Kratzer:  
-**Online joint optimization of sponsored search ad bid amounts and product prices on E-commerce**.  
+**Online joint optimization of sponsored search ad bid amounts and product prices on E-commerce**.
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.5220/0013118300003893" >DOI </a> </span>
 Proceedings of the 14th International Conference on Operations Research and Enterprise Systems (in press).
 1. A. Suzuki, K. Kobayashi, K. Nakata, Y. Kurume, N. Sawasaki, and Y. Sasamoto:  
 **Decision diagram optimization for allocating patients to medical diagnosis**.  
@@ -192,7 +193,8 @@ Topological Data Analysis and Beyond, Workshop at NeurIPS 2020, (2020).
 ## **Others**
 1. 小林健:  
 **機械学習の反実仮想説明と混合整数最適化**.  
-オペレーションズ・リサーチ, 69 (2024), 143--150.  
+オペレーションズ・リサーチ, 69 (2024), 143--150.    
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://orsj.org/wp-content/corsj/or69-3/or69_3_143.pdf">PDF </a> </span>
 1. 小林健:  
 **基数制約つき平均・分散モデルに対する切除平面法**.  
 オペレーションズ・リサーチ, 67 (2022), 360--365.  
