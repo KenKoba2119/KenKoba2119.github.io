@@ -13,11 +13,11 @@ JACS Au, (2025), DOI: 10.1021/jacsau.4c01189.
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1021/jacsau.4c01189" >DOI </a> </span>
 1. Y. Hikima, K. Kobayashi, A. Tanaka, A. Sannai, and N. Hamada:  
 **Stochastic gradient descent for Bézier simplex representation of Pareto set in multi-objective optimization**.  
-Proceedings of the 28th International Conference on Artificial Intelligence and Statistics, (2025), 67--78.
+Proceedings of the 28th International Conference on Artificial Intelligence and Statistics, (in press).
 1. S. Koguchi, K. Nakata, K. Kobayashi, K. Kawakami, T. Nakajima, and K. Kratzer:  
 **Online joint optimization of sponsored search ad bid amounts and product prices on E-commerce**.   
+Proceedings of the 14th International Conference on Operations Research and Enterprise Systems, (2025), 67--78.   
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.5220/0013118300003893" >DOI </a> </span>
-Proceedings of the 14th International Conference on Operations Research and Enterprise Systems (in press).
 1. A. Suzuki, K. Kobayashi, K. Nakata, Y. Kurume, N. Sawasaki, and Y. Sasamoto:  
 **Decision diagram optimization for allocating patients to medical diagnosis**.  
 Operations Research 2024 Proceedings (in press).
