@@ -6,7 +6,10 @@ toc: true
 
 # Publications
 
-## **Refereed Papers and Proceedings** 
+## **Refereed Papers and Proceedings**  
+1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
+**Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
+Transactions on Machine Learning Research, (in press).
 1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguchi:  
 **Prediction of single-mutation effects for fluorescent immunosensor engineering with an end-to-end trained protein language model**.  
 JACS Au, (2025), DOI: 10.1021/jacsau.4c01189.  
@@ -148,9 +151,6 @@ arXiv preprint,  arXiv:2311.18206 (2023).
 1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:  
 **Counterfactual explanation with missing values**.  
 arXiv preprint, arXiv:2304.14606 (2023).
-1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
-**Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
-arXiv preprint, arXiv:2205.11099 (2022).
 1. A. Tanaka, A. Sannai, K. Kobayashi, and N. Hamada:  
 **Approximate Bayesian computation of Bézier simplices**.  
 arXiv preprint, arXiv:2104.04679 (2021).
