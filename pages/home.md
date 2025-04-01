@@ -40,6 +40,6 @@ I am also interested in applications of mathematical optimization to other field
 - Office: W9-416, Institute of Science Tokyo, 2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan
 
 {:.alert .alert-warning}
-My e-mail address has recently been updated due to the merge of Tokyo Tech and TMDU. While the old address is still valid, I recommend using the new isct domain address when contacting me.
+My e-mail address has recently been updated due to the merge of Tokyo Tech and TMDU. Although the old address is still valid, I recommend using the new isct domain address when contacting me.
 
 ## **News**
