@@ -34,10 +34,12 @@ I am also interested in applications of mathematical optimization to other field
 
 
 ## Contact Information
-- E-mail: kobayashi.k.ar[at-mark]m.titech.ac.jp  
+- E-mail:
+  - kobayashi.k[at-mark]iee.eng.isct.ac.jp
+  - ~~kobayashi.k.ar[at-mark]m.titech.ac.jp~~ (still valid but not preferred)  
 - Office: W9-416, Institute of Science Tokyo, 2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan
 
-
-
+{:.alert .alert-warning}
+> My e-mail address has recently been updated due to the merge of Tokyo Tech and TMDU. While the old address is still valid, I recommend using the new isct domain address when contacting me.
 
 ## **News**
