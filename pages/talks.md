@@ -10,17 +10,20 @@ toc: true
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 
-## International Conferences
-1. K. Kobayashi:   
+## International Conference
+1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike: 
+**Learning decision trees and forests with algorithmic recourse.**   
+2024 INFORMS Annual Meeting, Seattle Convention Center, October 2024.
+3. K. Kobayashi:   
 **Mixed-integer semidefinite optimization and its applications to portfolio optimization**.     
 BiGSEM Economic Seminar, Bielefeld University, May 2024.  
 <span class="badge bg-info">Invited</span>
-2. K. Kobayashi, Y. Takano, and K. Nakata:  
+1. K. Kobayashi, Y. Takano, and K. Nakata:  
 **Cardinality-constrained distributionally robust portfolio optimization**.  
 2022 INFORMS Annual Meeting, Indiana Convention Center, October 2022.
 1. K. Kobayashi, Y. Takano, and K. Nakata:  
 **Cardinality-constrained distributionally robust portfolio optimization**.  
-The seventh International Conference on Continuous Optimization (ICCOPT 2022), Lehigh University, July 2022.
+The Seventh International Conference on Continuous Optimization (ICCOPT 2022), Lehigh University, July 2022.
 1. K. Kobayashi, Y. Umeda, Y. Sano, and Y. Yamaguchi:  
 **Post hoc analysis with the Bézier simplex fitting for multi-objective design exploration of valve train**.  
 WCX 2022  World Congress Experience, Virtual Concerence, March 2022.
