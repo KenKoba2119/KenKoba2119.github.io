@@ -8,7 +8,7 @@ toc: true
 
 ## **Refereed Papers and Proceedings**  
 1. S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata:  
-**Estimating Sales Transitions between Competing Products via Optimal Transport**.   
+**Estimating sales transitions between competing products via optimal transport**.   
 PLOS ONE, (in press).
 2. K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi:  
 **Algorithmic recourse for long-term improvement**.  
