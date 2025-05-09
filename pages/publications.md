@@ -7,10 +7,13 @@ toc: true
 # Publications
 
 ## **Refereed Papers and Proceedings**  
-1. K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi:  
+1. S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata:  
+**Estimating Sales Transitions between Competing Products via Optimal Transport**.   
+PLOS ONE, (in press).
+2. K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi:  
 **Algorithmic recourse for long-term improvement**.  
 Proceedings of the 42nd International Conference on Machine Learning, (in press).
-2. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
+1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
 **Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
 Transactions on Machine Learning Research, (in press).
 1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguchi:  
