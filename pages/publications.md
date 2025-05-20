@@ -15,14 +15,16 @@ PLOS ONE, (in press).
 Proceedings of the 42nd International Conference on Machine Learning, (in press).
 1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
 **Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
-Transactions on Machine Learning Research, (in press).
+Transactions on Machine Learning Research, (2025).   
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/pdf?id=I1gALvbRxj">Open Review </a>  </span>   
 1. A. Inoue, B. Zhu, K. Mizutani, K. Kobayashi, T. Yasuda, A. Wellner, C. C. Liu, and T. Kitaguchi:  
 **Prediction of single-mutation effects for fluorescent immunosensor engineering with an end-to-end trained protein language model**.  
 JACS Au, (2025), DOI: 10.1021/jacsau.4c01189.  
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1021/jacsau.4c01189" >DOI </a> </span>
 1. Y. Hikima, K. Kobayashi, A. Tanaka, A. Sannai, and N. Hamada:  
 **Stochastic gradient descent for Bézier simplex representation of Pareto set in multi-objective optimization**.  
-Proceedings of the 28th International Conference on Artificial Intelligence and Statistics, (in press).
+Proceedings of the 28th International Conference on Artificial Intelligence and Statistics, (2025).  
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=vz7EADbj4t">Open Review </a>  </span> 
 1. S. Koguchi, K. Nakata, K. Kobayashi, K. Kawakami, T. Nakajima, and K. Kratzer:  
 **Online joint optimization of sponsored search ad bid amounts and product prices on E-commerce**.   
 Proceedings of the 14th International Conference on Operations Research and Enterprise Systems, (2025), 67--78.   
@@ -49,7 +51,7 @@ Proceedings of the 41st International Conference on Machine Learning, PMLR 235 (
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **Towards assessing and benchmarking risk-return tradeoff of off-policy evaluation**.  
 Proceedings of the International Conference on Learning Representations, (2024).     
-<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=ycF7mKfVGO">PDF </a>  </span> 
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=ycF7mKfVGO">Open Review </a>  </span> 
  &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2311.18207" >Preprint </a> </span>  
 1. A. Ueta, M. Tanaka, K. Kobayashi, and K. Nakata:   
