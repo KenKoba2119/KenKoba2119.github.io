@@ -13,7 +13,7 @@ toc: true
 経営･経済のためのデータ分析
 - Numerical Optimization (IEE.A430)  
 数値的最適化
-- Engineering Literacy (XEG.B103)
+- Engineering Literacy (XEG.B103)   
 工学リテラシー
 
 ## **FY2024**
