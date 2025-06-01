@@ -11,10 +11,10 @@ toc: true
 
 
 ## International Conference
-1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike: 
+1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:  
 **Learning decision trees and forests with algorithmic recourse.**   
 The 7th Conference on Discrete Optimization and Machine Learning (DOxML 2025), Kyoto University, May 2025.
-1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike: 
+1. K. Kanamori, T. Takuya, K. Kobayashi, and Y. Ike:   
 **Learning decision trees and forests with algorithmic recourse.**   
 2024 INFORMS Annual Meeting, Seattle Convention Center, October 2024.
 1. K. Kobayashi:   
