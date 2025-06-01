@@ -31,7 +31,7 @@ Proceedings of the 14th International Conference on Operations Research and Ente
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.5220/0013118300003893" >DOI </a> </span>
 1. A. Suzuki, K. Kobayashi, K. Nakata, Y. Kurume, N. Sawasaki, and Y. Sasamoto:  
 **Decision diagram optimization for allocating patients to medical diagnosis**.  
-Operations Research 2024 Proceedings (in press).
+Operations Research 2024 Proceedings, to appear.
 1. N. Nishimura, K. Kobayashi, and K. Nakata:  
 **Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
 Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, (2024), 422--428.    
