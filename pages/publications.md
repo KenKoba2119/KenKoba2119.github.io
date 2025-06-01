@@ -9,10 +9,10 @@ toc: true
 ## **Refereed Papers and Proceedings**  
 1. S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata:  
 **Estimating sales transitions between competing products via optimal transport**.   
-PLOS ONE, (in press).
+PLOS ONE, to appear.
 2. K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi:  
 **Algorithmic recourse for long-term improvement**.  
-Proceedings of the 42nd International Conference on Machine Learning, (in press).
+Proceedings of the 42nd International Conference on Machine Learning, to appear.
 1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
 **Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
 Transactions on Machine Learning Research, (2025).   
@@ -56,7 +56,7 @@ Proceedings of the International Conference on Learning Representations, (2024).
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2311.18207" >Preprint </a> </span>  
 1. A. Ueta, M. Tanaka, K. Kobayashi, and K. Nakata:   
 **Inverse-optimization-based uncertainty set for robust linear optimization**.  
-Operations Research 2023 Proceedings, (in press).  
+Operations Research 2023 Proceedings, to appear.  
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2312.00391" >Preprint </a> </span>
 1. K. Mizutani, A. Ueta, R. Ueda, R. Oishi, T. Hara, Y. Hoshino, K. Kobayashi, and K. Nakata:  
 **Zero-inflated Poisson tensor factorization for sparse purchase data in E-commerce markets**.  
