@@ -9,8 +9,9 @@ toc: true
 ## **Refereed Papers and Proceedings**  
 1. S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata:  
 **Estimating sales transitions between competing products via optimal transport**.   
-PLOS ONE, to appear.
-2. K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi:  
+PLOS ONE, 20 (2025), e0325173.   
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1371/journal.pone.0325173" >DOI </a> </span>
+1. K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi:  
 **Algorithmic recourse for long-term improvement**.  
 Proceedings of the 42nd International Conference on Machine Learning, to appear.
 1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
@@ -152,8 +153,11 @@ Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="http://www.orsj.or.jp/archive2/or59-02/or59_2_81.pdf">PDF </a> </span>
 {: reversed="reversed"}
 
-## **Preprints**
-1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
+## **Preprints**.  
+1. R. Ueda, T. Sato, K. Kobayashi, and K. Nakata:
+**Interior-point vanishing problem in semidefinite relaxations for neural network verification**.   
+arXiv preprint, arXiv:2506.10269 (2025). 
+2. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **SCOPE-RL: a Python library for offline reinforcement learning and off-policy evaluation**.  
 arXiv preprint,  arXiv:2311.18206 (2023). 
 1. K. Kanamori, T. Takagi, K. Kobayashi, and Y. Ike:  
