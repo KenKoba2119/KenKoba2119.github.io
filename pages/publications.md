@@ -154,7 +154,7 @@ Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 {: reversed="reversed"}
 
 ## **Preprints**   
-1. R. Ueda, T. Sato, K. Kobayashi, and K. Nakata:
+1. R. Ueda, T. Sato, K. Kobayashi, and K. Nakata:   
 **Interior-point vanishing problem in semidefinite relaxations for neural network verification**.   
 arXiv preprint, arXiv:2506.10269 (2025). 
 2. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
