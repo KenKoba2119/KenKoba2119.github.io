@@ -153,7 +153,7 @@ Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="http://www.orsj.or.jp/archive2/or59-02/or59_2_81.pdf">PDF </a> </span>
 {: reversed="reversed"}
 
-## **Preprints**.  
+## **Preprints**   
 1. R. Ueda, T. Sato, K. Kobayashi, and K. Nakata:
 **Interior-point vanishing problem in semidefinite relaxations for neural network verification**.   
 arXiv preprint, arXiv:2506.10269 (2025). 
