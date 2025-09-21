@@ -7,13 +7,18 @@ toc: true
 # Publications
 
 ## **Refereed Papers and Proceedings**  
+1. K. Kanamori, K. Kobayashi, and T. Takagi:   
+**Learning Gradient Boosted Decision Trees with Algorithmic Recourse**.   
+Proceedings of the 39th Annual Conference on Neural Information Processing Systems, (2025).      
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=r9zzTQLnxw">Open Review </a>  
 1. S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata:  
 **Estimating sales transitions between competing products via optimal transport**.   
 PLOS ONE, 20 (2025), e0325173.   
-<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1371/journal.pone.0325173" >DOI </a> </span>
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1371/journal.pone.0325173">DOI </a> </span>
 1. K. Kanamori, K. Kobayashi, S. Hara, and T. Takagi:  
 **Algorithmic recourse for long-term improvement**.  
-Proceedings of the 42nd International Conference on Machine Learning, to appear.
+Proceedings of the 42nd International Conference on Machine Learning, (2025).   
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=gmLD0DHaoZ">Open Review </a>  </span>   
 1. A. Sannai, Y. Hikima, K.Kobayashi, A.Tanaka, and N. Hamada:  
 **Bézier flow: a surface-wise gradient descent method for multi-objective optimization**.  
 Transactions on Machine Learning Research, (2025).   
@@ -32,7 +37,8 @@ Proceedings of the 14th International Conference on Operations Research and Ente
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.5220/0013118300003893" >DOI </a> </span>
 1. A. Suzuki, K. Kobayashi, K. Nakata, Y. Kurume, N. Sawasaki, and Y. Sasamoto:  
 **Decision diagram optimization for allocating patients to medical diagnosis**.  
-Operations Research 2024 Proceedings, to appear.
+Operations Research 2024 Proceedings, (2025), 406--411.   
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1007/978-3-031-92575-7_58" >DOI </a> </span>
 1. N. Nishimura, K. Kobayashi, and K. Nakata:  
 **Balancing immediate revenue and future off-policy evaluation in coupon allocation**.  
 Proceedings of the 21st Pacific Rim International Conference on Artificial Intelligence, (2024), 422--428.    
@@ -57,7 +63,9 @@ Proceedings of the International Conference on Learning Representations, (2024).
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2311.18207" >Preprint </a> </span>  
 1. A. Ueta, M. Tanaka, K. Kobayashi, and K. Nakata:   
 **Inverse-optimization-based uncertainty set for robust linear optimization**.  
-Operations Research 2023 Proceedings, to appear.  
+Operations Research 2023 Proceedings, (2025), 527–-533.
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1007/978-3-031-58405-3_67">DOI </a> </span>
+ &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2312.00391" >Preprint </a> </span>
 1. K. Mizutani, A. Ueta, R. Ueda, R. Oishi, T. Hara, Y. Hoshino, K. Kobayashi, and K. Nakata:  
 **Zero-inflated Poisson tensor factorization for sparse purchase data in E-commerce markets**.  
