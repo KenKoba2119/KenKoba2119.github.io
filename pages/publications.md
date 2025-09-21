@@ -63,7 +63,7 @@ Proceedings of the International Conference on Learning Representations, (2024).
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2311.18207" >Preprint </a> </span>  
 1. A. Ueta, M. Tanaka, K. Kobayashi, and K. Nakata:   
 **Inverse-optimization-based uncertainty set for robust linear optimization**.  
-Operations Research 2023 Proceedings, (2025), 527–-533.
+Operations Research 2023 Proceedings, (2025), 527–-533.   
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1007/978-3-031-58405-3_67">DOI </a> </span>
  &nbsp;
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2312.00391" >Preprint </a> </span>
