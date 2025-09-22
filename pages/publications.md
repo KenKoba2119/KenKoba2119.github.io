@@ -8,7 +8,7 @@ toc: true
 
 ## **Refereed Papers and Proceedings**  
 1. K. Kanamori, K. Kobayashi, and T. Takagi:   
-**Learning Gradient Boosted Decision Trees with Algorithmic Recourse**.   
+**Learning gradient boosted decision trees with algorithmic recourse**.   
 Proceedings of the 39th Annual Conference on Neural Information Processing Systems, (2025).      
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=r9zzTQLnxw">Open Review </a>  
 1. S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata:  
