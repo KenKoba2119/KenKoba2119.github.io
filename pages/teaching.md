@@ -8,7 +8,7 @@ toc: true
 
 ## **FY2025**
 - Mathematical Engineering  (IEE.A203)  
-数理工学
+[数理工学](teaching/iee-a203/)
 - Data Analysis for Industrial Engineering and Economics  (IEE.B337)    
 経営･経済のためのデータ分析
 - Numerical Optimization (IEE.A430)  
