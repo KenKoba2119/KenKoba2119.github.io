@@ -10,7 +10,7 @@ toc: true
 1. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and Kazuhide Nakata:   
 **Robust prescriptive pricing under competitor price uncertainty**.     
 Proceedings of the 2025 IEEE International Conference on Big Data (Short Paper), (2025), to appear.
-1. K. Toyoda, Y. Utsumi, K. Kobayashi, K. Nakata:   
+1. K. Toyoda, Y. Utsumi, K. Kobayashi, and K. Nakata:   
 **Classification of strategic patents under the scarcity of labeled data**.   
 Proceedings of the 2025 IEEE International Conference on Big Data on Big Data Industry and Government Program (Short Paper), (2025), to appear.
 1. K. Kanamori, K. Kobayashi, and T. Takagi:   
