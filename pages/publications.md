@@ -15,7 +15,7 @@ Proceedings of the 2025 IEEE International Conference on Big Data (Short Paper),
 Proceedings of the 2025 IEEE International Conference on Big Data on Big Data Industry and Government Program (Short Paper), (2025), to appear.
 1. K. Kanamori, K. Kobayashi, and T. Takagi:   
 **Learning gradient boosted decision trees with algorithmic recourse**.   
-Proceedings of the 39th Annual Conference on Neural Information Processing Systems, (2025), to appear.       
+Proceedings of the 39th Annual Conference on Neural Information Processing Systems, (2025).       
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=r9zzTQLnxw">Open Review </a>  
 1. S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata:  
 **Estimating sales transitions between competing products via optimal transport**.   
