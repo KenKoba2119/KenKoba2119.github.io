@@ -7,9 +7,15 @@ toc: true
 # Publications
 
 ## **Refereed Papers and Proceedings**  
+1. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and Kazuhide Nakata:   
+**Robust prescriptive pricing under competitor price uncertainty**.     
+Proceedings of the 2025 IEEE International Conference on Big Data (Short Paper), (2025), to appear.
+1. K. Toyoda, Y. Utsumi, K. Kobayashi, K. Nakata:   
+**Classification of strategic patents under the scarcity of labeled data**.   
+Proceedings of the 2025 IEEE International Conference on Big Data on Big Data Industry and Government Program (Short Paper), (2025), to appear.
 1. K. Kanamori, K. Kobayashi, and T. Takagi:   
 **Learning gradient boosted decision trees with algorithmic recourse**.   
-Proceedings of the 39th Annual Conference on Neural Information Processing Systems, (2025).      
+Proceedings of the 39th Annual Conference on Neural Information Processing Systems, (2025), to appear.       
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=r9zzTQLnxw">Open Review </a>  
 1. S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata:  
 **Estimating sales transitions between competing products via optimal transport**.   
@@ -180,15 +186,15 @@ arXiv preprint, arXiv:2104.04679 (2021).
 ## **Refereed Workshop Proceedings**
 1. S. Nagai, R. Inaba, R. Oishi, S. Aikawa, Y. Mibuchi, H. Moriyama, K. Kobayashi, and K. Nakata:  
 **Zero-shot demand forecasting for products with limited sales periods**.  
-The 7th Workshop on Big Data for Economic and Business Forecasting, Workshop at IEEE International Conference on Big Data 2024, (2024).  
+The 7th Workshop on Big Data for Economic and Business Forecasting, Workshop at 2024 IEEE International Conference on Big Data, (2024).  
 <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1109/BigData62323.2024.10825549">DOI </a> </span>  
 1. K. Oh, N. Nishimura, M. Sung, K. Kobayashi, and K. Nakata:  
 **An IPW-based unbiased ranking metric in two-sided markets**.  
-Causal Inference and Machine Learning in Practice, Workshop at KDD 2023, (2023).  
+Causal Inference and Machine Learning in Practice, Workshop at the 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining, (2023).  
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2307.10204" >Preprint </a> </span>
 1. M. Kajitani, K. Kobayashi, Y. Ike, T. Yamanashi, Y. Umeda, Y. Kadooka, and G. Shinozaki:  
 **Application of topological data analysis to delirium detection**.  
-Topological Data Analysis and Beyond, Workshop at NeurIPS 2020, (2020).  
+Topological Data Analysis and Beyond, Workshop at the 34th Annual Conference on Neural Information Processing Systems 2020, (2020).  
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/pdf?id=szTsSnY3EaT">PDF </a> </span>
 {: reversed="reversed"}
 
