@@ -168,10 +168,13 @@ Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 {: reversed="reversed"}
 
 ## **Preprints**   
-1. R. Ueda, T. Sato, K. Kobayashi, and K. Nakata:   
+1. S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, and Kazuhide Nakata:   
+**Hierarchical time series forecasting with robust reconciliation**.   
+arXiv preprint, arXiv:2510.20383 (2025).
+2. R. Ueda, T. Sato, K. Kobayashi, and K. Nakata:   
 **Interior-point vanishing problem in semidefinite relaxations for neural network verification**.   
 arXiv preprint, arXiv:2506.10269 (2025). 
-2. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
+1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
 **SCOPE-RL: a Python library for offline reinforcement learning and off-policy evaluation**.  
 arXiv preprint,  arXiv:2311.18206 (2023). 
 1. K. Kanamori, T. Takagi, K. Kobayashi, and Y. Ike:  
