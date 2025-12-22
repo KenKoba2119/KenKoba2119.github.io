@@ -6,8 +6,11 @@ toc: true
 
 # Publications
 
-## **Refereed Papers and Proceedings**  
-1. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and Kazuhide Nakata:   
+## **Refereed Papers and Proceedings**. 
+1. K. Yoshida, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, and K. Nakata:     
+**The Electric Vehicle Routing Problem with Hard Time Windows and Nonlinear Charging and Discharging**.   
+Proceedings of the 15th International Conference on Operations Research and Enterprise Systems, (2025), to appear. 
+2. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and Kazuhide Nakata:   
 **Robust prescriptive pricing under competitor price uncertainty**.     
 Proceedings of the 2025 IEEE International Conference on Big Data (Short Paper), (2025), to appear.
 1. K. Toyoda, Y. Utsumi, K. Kobayashi, and K. Nakata:   
