@@ -6,11 +6,15 @@ toc: true
 
 # Publications
 
-## **Refereed Papers and Proceedings**. 
+## **Refereed Papers and Proceedings** 
+1. S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, and Kazuhide Nakata:   
+**Hierarchical time series forecasting with robust reconciliation**.   
+Transactions on Machine Learning Research, (2026), to appear.   
+<span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2510.20383" >Preprint </a> </span>  
 1. K. Yoshida, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, and K. Nakata:     
 **The Electric Vehicle Routing Problem with Hard Time Windows and Nonlinear Charging and Discharging**.   
 Proceedings of the 15th International Conference on Operations Research and Enterprise Systems, (2025), to appear. 
-2. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and Kazuhide Nakata:   
+1. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and Kazuhide Nakata:   
 **Robust prescriptive pricing under competitor price uncertainty**.     
 Proceedings of the 2025 IEEE International Conference on Big Data (Short Paper), (2025), to appear.
 1. K. Toyoda, Y. Utsumi, K. Kobayashi, and K. Nakata:   
@@ -171,10 +175,7 @@ Journal of the Operations Research Society of Japan, 60 (2017), 321--336.
 {: reversed="reversed"}
 
 ## **Preprints**   
-1. S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, and Kazuhide Nakata:   
-**Hierarchical time series forecasting with robust reconciliation**.   
-arXiv preprint, arXiv:2510.20383 (2025).
-2. R. Ueda, T. Sato, K. Kobayashi, and K. Nakata:   
+1. R. Ueda, T. Sato, K. Kobayashi, and K. Nakata:   
 **Interior-point vanishing problem in semidefinite relaxations for neural network verification**.   
 arXiv preprint, arXiv:2506.10269 (2025). 
 1. H. Kiyohara, R. Kishimoto, K. Kawakami, K. Kobayashi, K. Nakata, and Y. Saito:  
