@@ -10,9 +10,9 @@ toc: true
 1. S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, and Kazuhide Nakata:   
 **Hierarchical time series forecasting with robust reconciliation**.   
 Transactions on Machine Learning Research, (2026), to appear.   
-<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=XHPLjF52gY">Open Review </a>  
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=XHPLjF52gY">Open Review </a> </span> 
  &nbsp; 
-<span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2510.20383" >Preprint </a> </span> 
+<span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2510.20383" >Preprint </a> </span>
 1. K. Yoshida, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, and K. Nakata:     
 **Th electric vehicle routing problem with hard time windows and nonlinear charging and discharging**.   
 Proceedings of the 15th International Conference on Operations Research and Enterprise Systems, (2025), to appear. 
@@ -25,7 +25,7 @@ Proceedings of the 2025 IEEE International Conference on Big Data on Big Data In
 1. K. Kanamori, K. Kobayashi, and T. Takagi:   
 **Learning gradient boosted decision trees with algorithmic recourse**.   
 Proceedings of the 39th Annual Conference on Neural Information Processing Systems, (2025).       
-<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=r9zzTQLnxw">Open Review </a>  
+<span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=r9zzTQLnxw">Open Review </a>  </span>
 1. S. Yamao, R. Ueda, S. Koguchi, M. Nakase, A. Suzuki, K. Toyoda, K. Kobayashi, and K. Nakata:  
 **Estimating sales transitions between competing products via optimal transport**.   
 PLOS ONE, 20 (2025), e0325173.   
