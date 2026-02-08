@@ -9,7 +9,7 @@ toc: true
 ## **Refereed Papers and Proceedings** 
 1. S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, and Kazuhide Nakata:   
 **Hierarchical time series forecasting with robust reconciliation**.   
-Transactions on Machine Learning Research, (2026), to appear.   
+Transactions on Machine Learning Research, (2026).   
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=XHPLjF52gY">Open Review </a> </span> 
  &nbsp; 
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2510.20383" >Preprint </a> </span>
