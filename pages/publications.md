@@ -155,7 +155,7 @@ The 26th IEEE International Conference on Image Processing, 26 (2019),  4090--40
 オペレーションズ・リサーチ, 64 (2019), 65--72.  
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://orsj.org/wp-content/corsj/or64-2/or64_2_65.pdf">PDF </a> </span>
 1. K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama:   
-**Bézier simplex fitting: describing pareto fronts of simplicial problems with small samples in multi-objective optimization**.  
+**Bézier simplex fitting: describing Pareto fronts of simplicial problems with small samples in multi-objective optimization**.  
  Proceedings of the 33rd AAAI Conference on Artificial Intelligence, 33 (2019), 2304--2313.<br>
  <span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1609/aaai.v33i01.33012304">DOI </a> </span>
  &nbsp;
