@@ -7,7 +7,7 @@ toc: true
 # Publications
 
 ## **Refereed Papers and Proceedings** 
-1. S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, and Kazuhide Nakata:   
+1. S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, and K. Nakata:   
 **Hierarchical time series forecasting with robust reconciliation**.   
 Transactions on Machine Learning Research, (2026).   
 <span class="badge bg-success"> <a target="blank"  style="color:white;text-decoration:none" href="https://openreview.net/forum?id=XHPLjF52gY">Open Review </a> </span> 
@@ -16,7 +16,7 @@ Transactions on Machine Learning Research, (2026).
 1. K. Yoshida, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, and K. Nakata:     
 **Th electric vehicle routing problem with hard time windows and nonlinear charging and discharging**.   
 Proceedings of the 15th International Conference on Operations Research and Enterprise Systems, (2025), to appear. 
-1. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and Kazuhide Nakata:   
+1. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and K. Nakata:   
 **Robust prescriptive pricing under competitor price uncertainty**.     
 Proceedings of the 2025 IEEE International Conference on Big Data (Short Paper), (2025), to appear.
 1. K. Toyoda, Y. Utsumi, K. Kobayashi, and K. Nakata:   
