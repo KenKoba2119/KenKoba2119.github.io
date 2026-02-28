@@ -4,7 +4,7 @@ permalink: /teaching/iee-a203/
 toc: true
 ---
 
-## 数理工学
+## 数理工学 (Mathematical Engineering, IEE.A203) 
 
 ### 講義情報
 

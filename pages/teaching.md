@@ -6,41 +6,20 @@ toc: true
 
 # Teaching
 
-## **FY2025**
-- Mathematical Engineering  (IEE.A203)  
-[数理工学](teaching/iee-a203/)
-- Data Analysis for Industrial Engineering and Economics  (IEE.B337)    
-経営･経済のためのデータ分析
-- Numerical Optimization (IEE.A430)  
-数値的最適化
-- Engineering Literacy (XEG.B103)   
-工学リテラシー
+## Current Courses
+- Mathematical Engineering (数理工学，IEE.A203)
+  - [講義に関するページ](teaching/iee-a203/)
+- Data Analysis for Industrial Engineering and Economics (経営･経済のためのデータ分析，IEE.B337)
+- Numerical Optimization (数値的最適化，IEE.A430)
+- Engineering Literacy (工学リテラシー，XEG.B103)
 
-## **FY2024**
-- Introduction to Robust and Distributionally Robust Optimization (BiGSEM Mini Course, Bielefeld University). 
-- Data Analysis for Industrial Engineering and Economics  (IEE.B337)    
-経営･経済のためのデータ分析
-- Reading in Industrial Engineering and Economics S  (IEE.B401)     
-経営工学・経済学輪講S 
-- Reading in Industrial Engineering and Economics F  (IEE.B402)     
-経営工学・経済学輪講F 
-
-## **FY2023**
-- Data Analysis for Industrial Engineering and Economics  (IEE.B337)    
-経営･経済のためのデータ解析
-- Reading in Industrial Engineering and Economics S  (IEE.B401)     
-経営工学・経済学輪講S 
-- Reading in Industrial Engineering and Economics F  (IEE.B402)     
-経営工学・経済学輪講F 
-
-## **FY2022**
-- Data Analysis for Industrial Engineering and Economics  (IEE.B337)    
-経営･経済のためのデータ解析
-- Reading in Industrial Engineering and Economics S  (IEE.B401)     
-経営工学・経済学輪講S 
-- Reading in Industrial Engineering and Economics F  (IEE.B402)     
-経営工学・経済学輪講F 
+## Past Courses
+- Reading in Industrial Engineering and Economics S and F (経営工学・経済学輪講 S/F，IEE.B401, IEE.B402)
+    - FY2022 – FY2024
+- Introduction to Robust and Distributionally Robust Optimization
+    - BiGSEM Mini Course, Bielefeld University
+    - FY2024
 
 <br>
 
-See [TOKYO TECH OCW](http://www.ocw.titech.ac.jp/index.php?module=General&action=StaffInfo&id=91947){:target="_blank"} for detailed information.
+See [Science Tokyo Syllabus](https://syllabus.s.isct.ac.jp/search?year=2025&teacher=%E5%B0%8F%E6%9E%97+%E5%81%A5&name=&code=&group=100&group=200&group=300&group=400&group=500&group=600){:target="_blank"} for detailed information.
