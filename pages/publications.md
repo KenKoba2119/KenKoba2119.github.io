@@ -14,7 +14,7 @@ Transactions on Machine Learning Research, (2026).
  &nbsp; 
 <span class="badge bg-info"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.48550/arXiv.2510.20383" >Preprint </a> </span>
 1. K. Yoshida, K. Kobayashi, K. Kawai, Y. Ito, N. Ikemoto, and K. Nakata:     
-**Th electric vehicle routing problem with hard time windows and nonlinear charging and discharging**.   
+**The electric vehicle routing problem with hard time windows and nonlinear charging and discharging**.   
 Proceedings of the 15th International Conference on Operations Research and Enterprise Systems, (2025), to appear. 
 1. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and K. Nakata:   
 **Robust prescriptive pricing under competitor price uncertainty**.     
