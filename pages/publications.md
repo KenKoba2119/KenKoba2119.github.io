@@ -18,10 +18,12 @@ Transactions on Machine Learning Research, (2026).
 Proceedings of the 15th International Conference on Operations Research and Enterprise Systems, (2025), to appear. 
 1. S. Yamao, Y. Mibuchi, K. Yoshida, J. Wu, Y. Nakagawa, Y. Nakaya, K. Kobayashi, and K. Nakata:   
 **Robust prescriptive pricing under competitor price uncertainty**.     
-Proceedings of the 2025 IEEE International Conference on Big Data (Short Paper), (2025), to appear.
+Proceedings of the 2025 IEEE International Conference on Big Data (Short Paper), (2025), 2274–2281.   
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1109/BigData66926.2025.11401689">DOI </a> </span>
 1. K. Toyoda, Y. Utsumi, K. Kobayashi, and K. Nakata:   
 **Classification of strategic patents under the scarcity of labeled data**.   
-Proceedings of the 2025 IEEE International Conference on Big Data on Big Data Industry and Government Program (Short Paper), (2025), to appear.
+Proceedings of the 2025 IEEE International Conference on Big Data on Big Data Industry and Government Program (Short Paper), (2025), 2658–2662.  
+<span class="badge bg-secondary"> <a target="blank"  style="color:white;text-decoration:none" href="https://doi.org/10.1109/BigData66926.2025.11401684">DOI </a> </span>
 1. K. Kanamori, K. Kobayashi, and T. Takagi:   
 **Learning gradient boosted decision trees with algorithmic recourse**.   
 Proceedings of the 39th Annual Conference on Neural Information Processing Systems, (2025).       
