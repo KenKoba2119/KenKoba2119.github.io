@@ -113,8 +113,9 @@ RIKEN AIP-FUJITSU Collaboration Center, RIKEN Center for Advanced Intelligence P
 
 ### Committee Service 
 - 日本オペレーションズ・リサーチ学会 庶務幹事 (2017 年 -- 現在)
-- 日本オペレーションズ・リサーチ学会 論文誌編集幹事 (2022 年 -- 現在)
+- 日本オペレーションズ・リサーチ学会 論文誌編集幹事 (2022 年 -- 2024年)
 - 日本応用数理学会 連続最適化研究部会 幹事 (2022 年 -- 現在)
+- 日本応用数理学会 若手の会 幹事 (2025 年 -- 現在)
 - 第 35 回 RAMP 数理最適化シンポジウム 2023 実行委員 (2023 年)
  
 
@@ -126,13 +127,14 @@ RIKEN AIP-FUJITSU Collaboration Center, RIKEN Center for Advanced Intelligence P
 - Journal of Industrial and Management Optimization
 - Journal of the Operations Research Society of Japan
 - Numerical Algorithms
+- Neural Networks
 - RAIRO - Operations Research 
 - Transactions of the Operations Research Society in Japan
 - AAAI Conference on Artificial Intelligence
     - AAAI-22 **The top 25% of Program Committee Members** 
 - International Conference on Machine Learning
     - ICML-22 **The top 10% of Reviewers**
-
+- Neural Information Processing Systems
 <p class="sample" style="text-align:end;">
 <br>
  <a href="#top">Back to top</a>
