@@ -9,7 +9,7 @@ toc: true
 ## **Refereed Papers and Proceedings** 
 1. S. Yamao, K. Kobayashi, R. Matsui, S. Nagai, N. Nishimura, and K. Nakata:    
 **Robust decision-focused learning via worst-case regret minimization**.    
-Proceedings of Forty-Second Annual Conference on Uncertainty in Artificial Intelligence, to appear.
+Proceedings of 42nd Annual Conference on Uncertainty in Artificial Intelligence, to appear.
 1. S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, and K. Nakata:   
 **Hierarchical time series forecasting with robust reconciliation**.   
 Transactions on Machine Learning Research, (2026).   
