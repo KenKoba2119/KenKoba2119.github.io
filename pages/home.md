@@ -36,9 +36,10 @@ I am also interested in applications of mathematical optimization to other field
 ## Contact Information
 - E-mail:
   - kobayashi.k[at-mark]iee.eng.isct.ac.jp
-  - ~~kobayashi.k.ar[at-mark]m.titech.ac.jp~~ (still valid but not preferred)  
 
-{:.alert .alert-warning}
-My e-mail address has recently been updated due to the merge of Tokyo Tech and TMDU. Although the old address is still valid, I recommend that you use the new isct domain address when you contact me.
+{:.alert .alert-info}
+**For Prospective International Applicants**    
+If you are interested in joining my laboratory from abroad, please visit [this page](https://isct-koba-lab.github.io/international-applicants/) before reaching out to me.
+
 
 ## **News**
