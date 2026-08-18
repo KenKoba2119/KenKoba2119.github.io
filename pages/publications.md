@@ -6,7 +6,10 @@ toc: true
 
 # Publications
 
-## **Refereed Papers and Proceedings** 
+## **Refereed Papers and Proceedings**  
+1. H. Moriyama, J. Wu, H. Watanabe, D. Ochi, H. Kawata, S. Kanai, D. Yokota, R.D. Niklai, K. Kobayashi, and K. Nakata:   
+**Prediction performance-based grouping for bubble-based federated learning in retail demand forecasting**     
+Proceedings of the 23rd Pacific Rim International Conference on Artificial Intelligence (Short Paper), (2026), accepted.    
 1. S. Yamao, K. Kobayashi, R. Matsui, S. Nagai, N. Nishimura, and K. Nakata:    
 **Robust decision-focused learning via worst-case regret minimization**.    
 Proceedings of 42nd Annual Conference on Uncertainty in Artificial Intelligence, to appear.
