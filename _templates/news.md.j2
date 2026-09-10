@@ -1,0 +1,19 @@
+---
+title: "過去のお知らせ / Past News"
+permalink: /news/
+toc: true
+---
+# 過去のお知らせ / Past News
+
+{% for year, items in news | groupby("year") | sort(attribute="0", reverse=True) %}
+## {{ year }}
+<div class="card-column-1" markdown="1">
+{% for item in items %}
+<div markdown="1">
+**{{ item.date }}：{{ item.title }}**  
+{{ item.body }}
+</div>
+{% endfor %}
+</div>
+
+{% endfor %}

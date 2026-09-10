@@ -1,0 +1,838 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="A researcger on operations research and mathematical optimization at Institute of Science Tokyo.">
+      
+      
+        <meta name="author" content="Ken Kobayashi">
+      
+      
+        <link rel="canonical" href="https://isct-koba-lab.github.io/talks/">
+      
+      
+        <link rel="prev" href="../publications/">
+      
+      
+        <link rel="next" href="../teaching/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../material/cat">
+      <meta name="generator" content="zensical-0.0.60">
+    
+    
+      
+        <title>Talks - Ken Kobayashi</title>
+      
+    
+    
+      
+        
+      
+      <link rel="stylesheet" href="../assets/stylesheets/modern/main.ce62732f.min.css">
+      
+        
+          
+        
+        <link rel="stylesheet" href="../assets/stylesheets/modern/palette.812a03bb.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Inter:300,300i,400,400i,500,500i,700,700i%7CJetBrains+Mono:400,400i,700,700i&amp;display=fallback">
+        <style>:root{--md-text-font:"Inter";--md-code-font:"JetBrains Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("..",location),__md_scope.pathname.endsWith("/")||(__md_scope=new URL(__md_scope.pathname+"/",location)),__md_hash=e=>[...e].reduce(((e,t)=>(e<<5)-e+t.charCodeAt(0)),0),__md_get=(e,t=localStorage,_=__md_scope)=>JSON.parse(t.getItem(_.pathname+"."+e)),__md_set=(e,t,_=localStorage,a=__md_scope)=>{try{_.setItem(a.pathname+"."+e,JSON.stringify(t))}catch(e){}},document.documentElement.setAttribute("data-platform",navigator.platform)</script>
+    
+      
+  
+
+
+  
+  
+
+<script id="__analytics">function __md_analytics(){function e(){dataLayer.push(arguments)}window.dataLayer=window.dataLayer||[],e("js",new Date),e("config","G-WNJDXD3MQH"),document.addEventListener("DOMContentLoaded",(function(){document.forms.search&&document.forms.search.query.addEventListener("blur",(function(){this.value&&e("event","search",{search_term:this.value})}));document$.subscribe((function(){var t=document.forms.feedback;if(void 0!==t)for(var a of t.querySelectorAll("[type=submit]"))a.addEventListener("click",(function(a){a.preventDefault();var n=document.location.pathname,d=this.getAttribute("data-md-value");e("event","feedback",{page:n,data:d}),t.firstElementChild.disabled=!0;var r=t.querySelector(".md-feedback__note [data-md-value='"+d+"']");r&&(r.hidden=!1)})),t.hidden=!1})),location$.subscribe((function(t){e("config","G-WNJDXD3MQH",{page_path:t.pathname})}))}));var t=document.createElement("script");t.async=!0,t.src="https://www.googletagmanager.com/gtag/js?id=G-WNJDXD3MQH",document.getElementById("__analytics").insertAdjacentElement("afterEnd",t)}</script>
+  
+    <script>"undefined"!=typeof __md_analytics&&__md_analytics()</script>
+  
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer" aria-label="Navigation"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#talks" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow md-header--lifted" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="./.." title="Ken Kobayashi" class="md-header__button md-logo" aria-label="Ken Kobayashi" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12 8-1.33.09C9.81 7.07 7.4 4.5 5 4.5c0 0-1.97 2.96-.04 6.91-.55.83-.89 1.26-.96 2.25l-1.93.29.21.98 1.76-.26.14.71-1.57.94.47.89 1.45-.89C5.68 18.76 8.59 20 12 20s6.32-1.24 7.47-3.68l1.45.89.47-.89-1.57-.94.14-.71 1.76.26.21-.98-1.93-.29c-.07-.99-.41-1.42-.96-2.25C20.97 7.46 19 4.5 19 4.5c-2.4 0-4.81 2.57-5.67 3.59zm-3 3a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1m6 0a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1m-4 3h2l-.7 1.39c.2.64.76 1.11 1.45 1.11a1.5 1.5 0 0 0 1.5-1.5h.5a2 2 0 0 1-2 2c-.75 0-1.4-.41-1.75-1-.35.59-1 1-1.75 1a2 2 0 0 1-2-2h.5a1.5 1.5 0 0 0 1.5 1.5c.69 0 1.25-.47 1.45-1.11z"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer" aria-label="Navigation">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-menu" viewBox="0 0 24 24"><path d="M4 5h16M4 12h16M4 19h16"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Ken Kobayashi
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Talks
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-sun" viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M6.34 17.66l-1.41 1.41M19.07 4.93l-1.41 1.41"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="none" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-moon" viewBox="0 0 24 24"><path d="M20.985 12.486a9 9 0 1 1-9.473-9.472c.405-.022.617.46.402.803a6 6 0 0 0 8.268 8.268c.344-.215.825-.004.803.401"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search" aria-label="Search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-search" viewBox="0 0 24 24"><path d="m21 21-4.34-4.34"/><circle cx="11" cy="11" r="8"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog" aria-label="Search">
+  <button type="button" class="md-search__button">
+    Search
+  </button>
+</div>
+      
+    
+    <div class="md-header__source">
+      
+    </div>
+  </nav>
+  
+    
+      
+<nav class="md-tabs" aria-label="Tabs" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="./.." class="md-tabs__link">
+        
+  
+  Home
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../cv/" class="md-tabs__link">
+        
+  
+  CV
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../publications/" class="md-tabs__link">
+        
+  
+  Publications
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="././" class="md-tabs__link">
+        
+  
+  Talks
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../teaching/" class="md-tabs__link">
+        
+  
+  Teaching
+
+      </a>
+    </li>
+  
+
+      
+    </ul>
+  </div>
+</nav>
+    
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="./.." title="Ken Kobayashi" class="md-nav__button md-logo" aria-label="Ken Kobayashi" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m12 8-1.33.09C9.81 7.07 7.4 4.5 5 4.5c0 0-1.97 2.96-.04 6.91-.55.83-.89 1.26-.96 2.25l-1.93.29.21.98 1.76-.26.14.71-1.57.94.47.89 1.45-.89C5.68 18.76 8.59 20 12 20s6.32-1.24 7.47-3.68l1.45.89.47-.89-1.57-.94.14-.71 1.76.26.21-.98-1.93-.29c-.07-.99-.41-1.42-.96-2.25C20.97 7.46 19 4.5 19 4.5c-2.4 0-4.81 2.57-5.67 3.59zm-3 3a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1m6 0a1 1 0 0 1 1 1 1 1 0 0 1-1 1 1 1 0 0 1-1-1 1 1 0 0 1 1-1m-4 3h2l-.7 1.39c.2.64.76 1.11 1.45 1.11a1.5 1.5 0 0 0 1.5-1.5h.5a2 2 0 0 1-2 2c-.75 0-1.4-.41-1.75-1-.35.59-1 1-1.75 1a2 2 0 0 1-2-2h.5a1.5 1.5 0 0 0 1.5 1.5c.69 0 1.25-.47 1.45-1.11z"/></svg>
+
+    </a>
+    Ken Kobayashi
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="./.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+  Home
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../cv/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+  CV
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../publications/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+  Publications
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+  Talks
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="././" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+  Talks
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+
+<nav class="md-nav md-nav--secondary" aria-label="On this page">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      On this page
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#international-conference" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        International Conference
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#domestic-conferences" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        Domestic Conferences
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#outreach" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        Outreach
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../teaching/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+  Teaching
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  
+                    
+                    
+                    
+                      
+                    
+                    
+                      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+                      <div class="md-sidebar-button__wrapper">
+                        <label class="md-sidebar-button" for="__toc"></label>
+                      </div>
+                    
+                  
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--secondary" aria-label="On this page">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      On this page
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#international-conference" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        International Conference
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#domestic-conferences" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        Domestic Conferences
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#outreach" class="md-nav__link">
+    <span class="md-ellipsis">
+      <span class="md-typeset">
+        Outreach
+      </span>
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+  
+
+
+
+  
+
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+<h1 id="talks">Talks<a class="headerlink" href="#talks" title="Permanent link">&para;</a></h1>
+<script type="text/x-mathjax-config">MathJax.Hub.Config({tex2jax:{inlineMath:[['\$','\$'],['\\(','\\)']],processEscapes:true},CommonHTML: {matchFontHeight:false}});</script>
+<script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+
+<h2 id="international-conference">International Conference<a class="headerlink" href="#international-conference" title="Permanent link">&para;</a></h2>
+<ol>
+<li>K. Kanamori, T. Takagi, K. Kobayashi, and Y. Ike:
+Learning decision trees and forests with algorithmic recourse. 
+The Seventh Conference on Discrete Optimization and Machine Learning (DOxML 2025), Kyoto University, May 2025.</li>
+<li>K. Kanamori, T. Takagi, K. Kobayashi, and Y. Ike: 
+Learning decision trees and forests with algorithmic recourse. 
+2024 INFORMS Annual Meeting, Seattle Convention Center, October 2024.</li>
+<li>K. Kobayashi: 
+Mixed-integer semidefinite optimization and its applications to portfolio optimization. <br />
+BiGSEM Economic Seminar, Bielefeld University, May 2024.
+<span class="badge bg-info">Invited</span></li>
+<li>K. Kobayashi, Y. Takano, and K. Nakata:
+Cardinality-constrained distributionally robust portfolio optimization.
+2022 INFORMS Annual Meeting, Indiana Convention Center, October 2022.</li>
+<li>K. Kobayashi, Y. Takano, and K. Nakata:
+Cardinality-constrained distributionally robust portfolio optimization.
+The Seventh International Conference on Continuous Optimization (ICCOPT 2022), Lehigh University, July 2022.</li>
+<li>K. Kobayashi, Y. Umeda, Y. Sano, and Y. Yamaguchi:
+Post hoc analysis with the Bézier simplex fitting for multi-objective design exploration of valve train.
+WCX 2022  World Congress Experience, Virtual Concerence, March 2022.</li>
+<li>K. Kobayashi, Y. Takano, and K. Nakata:
+Bilevel cutting-plane algorithm for cardinality-constrained mean-CVaR optimization.
+ 5<sup>th</sup> ZIB-RIKEN-IMI-ISM MODAL Workshop on Mathematical Optimization, Data Analysis, and HPC, Virtual Conference, September 2021.</li>
+<li>K. Kobayashi, Y. Takano, and K. Nakata:
+A bilevel cutting-plane algorithm for cardinality-constrained mean-CVaR optimization.
+ 2020 INFORMS Annual Meeting, Virtual Conference, October 2020.</li>
+<li>A. Tanaka, A. Sannai, K. Kobayashi, and N. Hamada:
+Asymptotic Risk of Bézier Simplex Fitting.
+The 34<sup>th</sup> AAAI Conference on Artificial Intelligence (AAAI-20).   New York Hilton Midtown, February 2020.</li>
+<li>K. Kobayashi and Y. Takano:
+A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problems.
+ 2019 INFORMS Annual Meeting, Washington Convention Center, October 2019.</li>
+<li>K. Kobayashi and Y. Takano:
+A branch-and-cut algorithm for solving mixed-integer semidefinite optimization problem.
+International Conference on Nonlinear Analysis, and Convex Analysis--International Conference on Optimization: Techniques, and Applications (NACA-ICOTA2019), Future University Hakodate, August 2019.</li>
+<li reversed="reversed">K. Kobayashi, N. Hamada, A. Sannai, A. Tanaka, K. Bannai, and M. Sugiyama:
+Bézier simplex fitting: describing Pareto fronts of simplicial problems with small samples in multi-objective optimization.
+The 33<sup>rd</sup> AAAI Conference on Artificial Intelligence (AAAI-19), Hilton Hawaiian Village Waikiki Beach Resort, February 2019. </li>
+</ol>
+<h2 id="domestic-conferences">Domestic Conferences<a class="headerlink" href="#domestic-conferences" title="Permanent link">&para;</a></h2>
+<ol>
+<li>小林健:
+混合整数半正定値最適化問題に対する切除平面法とその周辺.
+第 127 回 人工知能基本問題研究会, 東京大学 (ハイブリッド開催), 2024 年 1 月. 
+<span class="badge bg-info">招待あり</span></li>
+<li>小林健:
+混合整数半正定値最適化問題に対する切除平面法とその周辺.
+第 34 回 RAMP 数理最適化シンポジウム, 秋田拠点センターALVE (ハイブリッド開催), 2022 年 10 月. 
+<span class="badge bg-info">招待あり</span></li>
+<li>小林健, 高野祐一, 中田和秀:
+基数制約つき分布ロバスト最適化.
+日本応用数理学会 2022 年度 年会, オンライン発表, 2022 年 9 月. </li>
+<li>小林健, 高野祐一, 中田和秀:
+基数制約つき分布ロバスト最適化.
+日本オペレーションズ・リサーチ学会 2022 年春季研究発表会, オンライン発表, 2022 年 3 月. </li>
+<li>小林健, 梅田裕平, 佐野雄樹, 山口義博:
+動弁系の多目的設計探査におけるベジエ単体フィッティングを用いた事後分析手法の構築.
+自動車技術会 2021 年秋季大会, オンライン発表, 2021 年 9 月.</li>
+<li>小林健, 高野祐一, 中田和秀:
+基数制約つき分布ロバスト最適化.
+科学研究費 基盤研究(A)「機械学習システムの社会実装に向けた次世代最適化技法の研究｣ 2021年度 シンポジウム, オンライン発表, 2021 年 9 月.</li>
+<li>小林健, 高野祐一, 中田和秀:
+基数制約つき CVaR 最小化問題に対する 2 重切除平面法.
+京都大学数理解析研究所 共同研究集会 数理最適化の理論と応用の深化, オンライン発表, 2021 年 8 月.</li>
+<li>小林健, 高野祐一, 中田和秀:
+基数制約つき CVaR 最小化問題に対する 2 重切除平面法.
+日本オペレーションズ・リサーチ学会 2021 年春季研究発表会, オンライン発表, 2021 年 3 月.</li>
+<li>田中章詞, 三内顕義, 小林健, 濱田直希: 
+近似ベイズ計算を用いたベジエ単体フィッティングの理論解析. 
+第 23 回情報論的学習理論ワークショップ, オンライン発表, 2020 年 11 月.</li>
+<li>小林健, 高野祐一: 
+混合整数半正定値最適化問題に対する分枝切除法と機械学習への応用.
+第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.</li>
+<li>田中章詞, 三内顕義, 小林健, 濱田直希:
+ベジエ単体近似法の漸近リスク. 
+第 22 回情報論的学習理論ワークショップ, ウインクあいち, 2019 年 11 月.</li>
+<li>小林健, 高野祐一: 混合整数半正定値最適化問題に対する分枝切除法.
+ 日本オペレーションズ･リサーチ学会研究部会 最適化とその応用 未来を担う若手研究者の集い 2019, 筑波大学, 2019 年 6 月.</li>
+<li>小林健, 濱田直希, 三内顕義, 田中章詞, 坂内健一, 杉山将:
+ベジエ単体を用いたパレートフロントの小標本近似法.<br />
+第 21 回情報論的学習理論ワークショップ. 北海道大学, 2018 年 11 月.</li>
+<li>小林健, 高野祐一:  混合整数半正定値最適化問題に対する分枝切除法.
+科学研究費 基盤研究(A)「新時代の最適化モデルに基づく意思決定支援プラットフォームの研究と開発｣ 2018年度 ワークショップ, 東京工業大学, 2018 年 9 月.</li>
+<li>小林健, 高野祐一:  混合整数半正定値最適化問題に対する分枝切除法.
+日本オペレーションズ・リサーチ学会 2018 年春季研究発表会, 東海大学, 2018 年 3 月.</li>
+<li>小林健, 濱田直希, 酒井彬, 吉田裕之, 三内顕義, 田中章詞, 坂内健一, 杉山将: 
+ベジエ単体を用いたパレートフロント超曲面近似. 
+第 14 回進化計算学会研究会, 法政大学, 2018 年 3 月.</li>
+<li>小林健, 紺野剛史:
+確率計画法を用いた不確実性を考慮した生産計画.
+日本機械学会生産システム部門 研究発表講演会, 埼玉大学, 2017 年 3 月.</li>
+<li>小林健, 濱田直希: 
+<span class="arithmatex">\(k\)</span>-近傍交叉カーネルを用いたサポートベクターマシンの実験的評価. 
+第 13 回進化計算学会研究会, 九州大学, 2017 年 2 月.</li>
+<li>小林健, 高野祐一, 宮代隆平, 中田和秀: 
+多重共線性を考慮した回帰式の変数選択問題に対する混合整数計画法を用いた汎用解法.  <br />
+日本オペレーションズ・リサーチ学会 2015 年 春季研究発表会, 東京理科大学, 2015 年 3 月.</li>
+<li>小林健, 高野祐一, 宮代隆平, 中田和秀: 
+多重共線性を考慮した回帰式の変数選択--混合整数半正定値計画法を用いた解法--.<br />
+京都大学数理解析研究所研究集会 最適化アルゴリズムの進展:理論・応用・実装, 京都大学, 2014 年 9 月.</li>
+<li reversed="reversed">小林健, 高野祐一, 宮代隆平, 中田和秀: 
+多重共線性を考慮した回帰式の変数選択--混合整数半正定値計画法を用いた解法--. 
+日本オペレーションズ・リサーチ学会 2014 年秋季研究発表会, 北海道科学大学, 2014 年 8 月.</li>
+</ol>
+<h2 id="outreach">Outreach<a class="headerlink" href="#outreach" title="Permanent link">&para;</a></h2>
+<ol>
+<li reversed="reversed">小林健: 
+数理最適化を活用した分野横断型問題解決.
+Tokyo Tech Research Festival 2022, 東京工業大学, 2022 年 12 月.</li>
+</ol>
+
+  
+
+
+
+
+
+
+
+
+
+  
+  
+
+
+
+  
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+  <script>var tabs=__md_get("__tabs");if(Array.isArray(tabs))e:for(var set of document.querySelectorAll(".tabbed-set")){var labels=set.querySelector(".tabbed-labels");for(var tab of tabs)for(var label of labels.getElementsByTagName("label"))if(label.innerText.trim()===tab){var input=document.getElementById(label.htmlFor);input.checked=!0;continue e}}</script>
+
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" fill="none" stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" class="lucide lucide-circle-arrow-up" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="m16 12-4-4-4 4M12 16V8"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      &copy 2024–2026 Kobayashi Laboratory. All rights reserved.
+    </div>
+  
+  
+    Made with
+    <a href="https://zensical.org/" target="_blank" rel="noopener">
+      Zensical
+    </a>
+  
+</div>
+      
+        
+<div class="md-social">
+  
+    
+    
+    
+    
+    <a href="https://kenkoba2119.github.io/" target="_blank" rel="noopener" title="Ken Kobayashi" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512"><!--! Font Awesome Free 7.3.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2026 Fonticons, Inc.--><path fill="currentColor" d="M419.5 96c-16.6 0-32.7 4.5-46.8 12.7-15.8-16-34.2-29.4-54.5-39.5 28.2-24 64.1-37.2 101.3-37.2C505.9 32 576 102 576 188.5c0 41.5-16.5 81.3-45.8 110.6l-71.1 71.1C429.8 399.5 390 416 348.5 416 262.1 416 192 346 192 259.5c0-1.5 0-3 .1-4.5.5-17.7 15.2-31.6 32.9-31.1s31.6 15.2 31.1 32.9v2.6c0 51.1 41.4 92.5 92.5 92.5 24.5 0 48-9.7 65.4-27.1l71.1-71.1c17.3-17.3 27.1-40.9 27.1-65.4 0-51.1-41.4-92.5-92.5-92.5zm-144.3 77.3c-1.9-.8-3.8-1.9-5.5-3.1-12.6-6.5-27-10.2-42.1-10.2-24.5 0-48 9.7-65.4 27.1l-71.1 71.1C73.8 275.5 64 299.1 64 323.6c0 51.1 41.4 92.5 92.5 92.5 16.5 0 32.6-4.4 46.7-12.6 15.8 16 34.2 29.4 54.6 39.5-28.2 23.9-64 37.2-101.3 37.2C70.1 480.2 0 410.2 0 323.7c0-41.5 16.5-81.3 45.8-110.6l71.1-71.1c29.3-29.3 69.1-45.8 110.6-45.8 86.6 0 156.5 70.6 156.5 156.9v3.9c-.4 17.7-15.1 31.6-32.8 31.2s-31.6-15.1-31.2-32.8v-2.3c0-33.7-18-63.3-44.8-79.6z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate":null,"base":"..","features":["announce.dismiss","content.code.annotate","content.code.copy","content.code.select","content.footnote.tooltips","content.tabs.link","content.tooltips","navigation.indexes","navigation.instant","navigation.instant.prefetch","navigation.path","navigation.sections","navigation.tabs","navigation.tabs.sticky","navigation.top","navigation.tracking","search.highlight","toc.follow"],"search":"../assets/javascripts/workers/search.7d14d953.min.js","tags":null,"translations":{"clipboard.copied":"Copied to clipboard","clipboard.copy":"Copy to clipboard","search.result.more.one":"1 more on this page","search.result.more.other":"# more on this page","search.result.none":"No matching documents","search.result.one":"1 matching document","search.result.other":"# matching documents","search.result.placeholder":"Type to start searching","search.result.term.missing":"Missing","select.version":"Select version"},"version":null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.88ee1349.min.js"></script>
+      
+    
+  </body>
+</html>
