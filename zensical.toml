@@ -16,7 +16,7 @@ site_name = "Ken Kobayashi"
 # The site_description is included in the HTML head and should contain a
 # meaningful description of the site content for use by search engines.
 #
-site_description = "A researcger on operations research and mathematical optimization at Institute of Science Tokyo."
+site_description = "A researcher on operations research and mathematical optimization at Institute of Science Tokyo."
 
 # The site_author attribute. This is used in the HTML head element.
 #
