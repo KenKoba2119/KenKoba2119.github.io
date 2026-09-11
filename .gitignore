@@ -1,11 +1,5 @@
-*.gem
-.bundle
-.sass-cache
-_site
-Gemfile.lock
-
-# npm
-node_modules
+# Zensical
+site/
 
 # Mac OS X
 .DS_Store

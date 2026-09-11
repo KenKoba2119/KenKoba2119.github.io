@@ -1,11 +1,17 @@
-version: '2'
 services:
-  server:
+  site:
     build:
       context: .
-      dockerfile: Dockerfile
-    image: result/latest
+      args:
+        ZENSICAL_VERSION: "0.0.60"
+    image: kenkoba-site:latest
+    container_name: kenkoba-site
     ports:
-      - "4000:4000"
+      - "8000:8000"
     volumes:
       - ".:/src"
+    # 生成物 (site/) がホスト側で root 所有にならないようにする。
+    # .env に UID / GID を書いておくこと（README 参照）。
+    # macOS で権限エラーが出る場合はこの行をコメントアウトしてよい。
+    user: "${UID:-1000}:${GID:-1000}"
+    tty: true

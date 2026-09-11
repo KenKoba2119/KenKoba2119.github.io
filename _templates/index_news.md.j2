@@ -1,0 +1,8 @@
+<div class="card-column-1" markdown="1">
+{% for item in news %}
+<div markdown="1">
+**{{ item.date }}：{{ item.title }}**  
+{{ item.body }}
+</div>
+{% endfor %}
+</div>

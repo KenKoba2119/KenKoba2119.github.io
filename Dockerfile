@@ -1,14 +1,23 @@
-FROM jekyll/builder:stable
+# Zensical build/preview environment for KenKoba2119.github.io
+FROM python:3.13-slim
 
-WORKDIR /tmp
-ADD Gemfile /tmp/
-ADD Gemfile.lock /tmp/
-RUN bundle install
+ENV PYTHONDONTWRITEBYTECODE=1 \
+    PYTHONUNBUFFERED=1 \
+    HOME=/tmp
 
-FROM jekyll/jekyll
-
-VOLUME /src
-EXPOSE 4000
+# zensical は 0.0.x で変更が速いのでバージョンを固定する。
+# 更新するときはここと .github/workflows/docs.yml の両方を合わせること。
+ARG ZENSICAL_VERSION=0.0.60
+RUN pip install --no-cache-dir \
+      "zensical==${ZENSICAL_VERSION}" \
+      jinja2 \
+      pyyaml
 
 WORKDIR /src
-ENTRYPOINT ["jekyll", "serve", "--livereload", "-H", "0.0.0.0"]
+EXPOSE 8000
+
+# サブコマンドを docker compose run から渡せるように ENTRYPOINT を zensical にする
+ENTRYPOINT ["zensical"]
+
+# コンテナ内では localhost ではなく 0.0.0.0 で待ち受ける必要がある
+CMD ["serve", "-a", "0.0.0.0:8000"]
