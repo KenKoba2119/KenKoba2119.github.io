@@ -26,13 +26,13 @@ site_author = "Ken Kobayashi"
 # The site_url is the canonical URL for your site. When building online
 # documentation you should set this.
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://isct-koba-lab.github.io/"
+site_url = "https://kenkoba2119.github.io/"
 
 # The copyright notice appears in the page footer and can contain an HTML
 # fragment.
 #
 # Read more: https://zensical.org/docs/setup/basics/#copyright
-copyright = "&copy 2024–2026 Kobayashi Laboratory. All rights reserved."
+copyright = "&copy 2024–2026 Ken Kobayashi. All rights reserved."
 
 # Zensical supports both implicit navigation and explicitly defined navigation.
 # If you decide not to define a navigation here then Zensical will simply
@@ -46,7 +46,10 @@ nav = [
    { "CV" = "cv.md" },
    { "Publications" = "publications.md" },
    { "Talks" = "talks.md" },
-   { "Teaching" = "teaching.md" }
+   { "Teaching" = [
+        "teaching.md",
+         "teaching/iee-a203.md"
+         ]}
  ]
 
 # With the "extra_css" option you can add your own CSS styling to customize
@@ -93,7 +96,7 @@ extra_css = ["stylesheets/extra.css"]
 # - https://zensical.org/docs/setup/logo-and-icons/#favicon
 # - https://developer.mozilla.org/en-US/docs/Glossary/Favicon
 #
-favicon = "material/cat"
+favicon = "material/alpha-k-box"
 
 # Zensical supports more than 60 different languages. This means that the
 # labels and tooltips that Zensical's templates produce are translated.
@@ -266,7 +269,7 @@ features = [
 # ----------------------------------------------------------------------------
 #[project.theme.icon]
 #logo = "lucide/smile"
-icon.logo = "material/cat"
+icon.logo = "material/alpha-k-box"
 
 # ----------------------------------------------------------------------------
 # In the "font" subsection you can configure the fonts used. By default, fonts
@@ -308,7 +311,7 @@ name = "Ken Kobayashi"
 
 [project.extra.analytics]
 provider = "google"
-property = "G-WNJDXD3MQH"
+property = "G-C1955YC15E"
 
 # ----------------------------------------------------------------------------
 # In this section you can configure the Markdown extensions that are used when
