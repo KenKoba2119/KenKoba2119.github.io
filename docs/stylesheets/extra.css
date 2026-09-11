@@ -204,10 +204,13 @@
   text-decoration: none;
 }
 
-/* 表を中央寄せ */
+/* 表の文字サイズを本文と揃え、セルの余白を詰める */
 .md-typeset table:not([class]) {
-  margin-left: auto;
-  margin-right: auto;   
+  font-size: 0.8rem;
+}
+.md-typeset table:not([class]) th,
+.md-typeset table:not([class]) td {
+  padding: 0.5em 0.8em;        /* 既定は 0.9em 1.25em */
 }
 
 /* ---- トップページのプロフィール ---- */
@@ -365,7 +368,7 @@
 .md-typeset .topics {
   display: inline-block;
   margin-top: 0.2em;
-  font-size: 0.6rem;
+  font-size: 0.7rem;
   line-height: 1.5;
   color: var(--md-default-fg-color--light);
 }
