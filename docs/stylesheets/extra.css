@@ -359,6 +359,14 @@
   width: 5rem;
 }
 
+.md-typeset .topics {
+  display: inline-block;
+  margin-top: 0.2em;
+  font-size: 0.56rem;
+  line-height: 1.5;
+  color: var(--md-default-fg-color--light);
+}
+
 /* 以下は削除
 .md-typeset td .twemoji {
   height: 1rem;

@@ -48,7 +48,7 @@ hide:
 
 | 回 | 講義内容 | 教科書 | 資料 |
 |:--:|---|:--:|:--:|
-| 1 | 内積と直交性<br><span class="topics">内積の定義 ／ ノルムと距離 ／ 直交性</span>| 18章 1 | [PDF](slides/math-eng/slide01.pdf) |
+| 1 | 内積と直交性<br><span class="topics">線形空間と内積 ／  ノルム ／ なす角と直交</span>| 18章 1 | [PDF](slides/math-eng/slide01.pdf) |
 | 2 | 射影と最小二乗法 | 18章 2, 3 | [PDF](slides/math-eng/slide02.pdf) |
 | 3 | グラム・シュミットの直交化 | 19章 1 | [PDF](slides/math-eng/slide03.pdf) |
 | 4 | 部分空間と直交性 | 19章 2, 3 | [PDF](slides/math-eng/slide04.pdf) |
