@@ -53,8 +53,8 @@ hide:
 | 3 | グラム・シュミットの直交化<br><span class="topics">直交行列 ／  グラム・シュミットの直交化 ／ QR 分解</span>  | 19章 1 | [PDF](slides/math-eng/slide03.pdf) |
 | 4 | 部分空間と直交性<br><span class="topics">部分空間の和  ／ 独立と直和 ／ 直交補空間</span>  | 19章 2, 3 | [PDF](slides/math-eng/slide04.pdf) |
 | 5 | 固有値・固有ベクトル<br><span class="topics">固有値と固有ベクトルの定義と性質  ／ 行列の対角化</span>  | 20章 1, 2 | [PDF](slides/math-eng/slide05.pdf) |
-| 6 | 実対称行列 | 20章 3, 4 | [PDF](slides/math-eng/slide06.pdf) |
-| 7 | 固有値・固有ベクトルの応用 1 | 21章 1, 2 | [PDF](slides/math-eng/slide07.pdf) |
+| 6 | 実対称行列ル<br><span class="topics">実対称行列の固有値と固有ベクトル  ／ 実対称行列の対角化 ／ 正方行列の対角化</span> | 20章 3, 4 | [PDF](slides/math-eng/slide06.pdf) |
+| 7 | 固有値・固有ベクトルの応用 1 <br><span class="topics">半正定値行列･正定値行列の定義  ／ 半正定値行列の性質 ／ 半正定値行列の応用</span>| 21章 1, 2 | [PDF](slides/math-eng/slide07.pdf) |
 | 8 | 固有値・固有ベクトルの応用 2 | 21章 2, 3 | [PDF](slides/math-eng/slide08.pdf) |
 | 9 | 微分方程式 | 22章 1, 2 | [PDF](slides/math-eng/slide09.pdf) |
 | 10 | 1 階の微分方程式 | 22章 2, 3 | [PDF](slides/math-eng/slide10.pdf) |
