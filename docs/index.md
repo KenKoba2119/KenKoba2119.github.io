@@ -45,7 +45,7 @@ other fields, such as machine learning and so on.
 <div class="grid cards" markdown>
 
 -   :material-vector-polyline: **Mixed-integer Optimization**
--   :material-cone: **Conic Optimization**
+-   :material-ice-cream: **Conic Optimization**
 -   :material-arrow-decision: **Algorithmic Recourse**
 -   :material-shield-half-full: **Robust Optimization**
 -   :material-target: **Decision-focused Learning**

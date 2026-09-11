@@ -12,7 +12,7 @@ hide:
 <script type="text/javascript" async src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-MML-AM_CHTML"></script>
 
 
-## International Conference
+## International Conferences
 1. K. Kanamori, T. Takagi, K. Kobayashi, and Y. Ike:
 Learning decision trees and forests with algorithmic recourse. 
 The Seventh Conference on Discrete Optimization and Machine Learning (DOxML 2025), Kyoto University, May 2025.

@@ -215,12 +215,11 @@
   align-items: flex-start;
   margin-bottom: 2em;
 }
-/* 画像を包む <p> の余白を消す */
-.md-typeset .hero > p {
-  margin: 0;
-}
 .md-typeset .hero__text {
-  flex: 1 1 16rem;   /* 20rem から縮小、あるいは flex: 1 1 auto; */
+  flex: 1 1 0rem;      /* 20rem から縮小 */
+}
+.md-typeset .hero > p {
+  margin: 0;            /* 画像を包む <p> の余白を消す */
 }
 .md-typeset .hero__text h1 {
   margin-top: 0;
