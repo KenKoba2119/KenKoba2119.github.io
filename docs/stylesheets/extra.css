@@ -206,11 +206,11 @@
 
 /* 表の文字サイズを本文と揃え、セルの余白を詰める */
 .md-typeset table:not([class]) {
-  font-size: 0.75rem;
+  font-size: 0.72rem;
 }
 .md-typeset table:not([class]) th,
 .md-typeset table:not([class]) td {
-  padding: 0.5em 0.8em;        /* 既定は 0.9em 1.25em */
+  padding: 0.4em 0.7em;        /* 既定は 0.9em 1.25em */
 }
 
 /* ---- トップページのプロフィール ---- */
