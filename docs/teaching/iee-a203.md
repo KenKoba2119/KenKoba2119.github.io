@@ -57,8 +57,8 @@ hide:
 | 7 | **固有値・固有ベクトルの応用 1** <br><span class="topics">半正定値行列･正定値行列の定義  ／ 半正定値行列の性質 ／ 半正定値行列の応用</span>| 21章 1, 2 | [PDF](slides/math-eng/slide07.pdf) |
 | 8 | **固有値・固有ベクトルの応用 2**  <br><span class="topics">1 階線形微分方程式系と行列指数関数  ／ 軍拡モデル ／ 人口移動モデル</span>| 21章 2, 3 | [PDF](slides/math-eng/slide08.pdf) |
 | 9 | **微分方程式** <br><span class="topics">微分方程式とは  ／ 1 階微分方程式の解法 (変数分離形，同次形)</span>| 22章 1, 2 | [PDF](slides/math-eng/slide09.pdf) |
-| 10 | **1 階の微分方程式**<br><span class="topics">1 階線形微分方程式 ／Bernoulli 型微分方程式 </span> | 22章 2, 3 | [PDF](slides/math-eng/slide10.pdf) |
-| 11 | **高階の微分方程式** <br><span class="topics"> 2 階微分方程式 ／高階線形微分方程式 </span>| 22章 4 | [PDF](slides/math-eng/slide11.pdf) |
+| 10 | **1 階の微分方程式**<br><span class="topics">1 階線形微分方程式の解法 ／Bernoulli 型微分方程式の解法 </span> | 22章 2, 3 | [PDF](slides/math-eng/slide10.pdf) |
+| 11 | **高階の微分方程式** <br><span class="topics"> 2 階微分方程式の解法 ／高階線形微分方程式の解法</span>| 22章 4 | [PDF](slides/math-eng/slide11.pdf) |
 | 12 | **ラプラス変換** <br><span class="topics"> ラプラス変換とは ／ 基本的な関数のラプラス変換 ／ ガンマ関数のラプラス変換</span>| 23章 1, 2 | [PDF](slides/math-eng/slide12.pdf) |
 | 13 | **ラプラス変換の性質** <br><span class="topics">ラプラス変換の性質 ／ 合成積のラプラス変換</span>| 23章 2, 3 | [PDF](slides/math-eng/slide13.pdf) |
 | 14 | **ラプラス変換の応用** <br><span class="topics">逆ラプラス変換 ／ ラプラス変換を用いた初期値問題の解法</span>| 23章 3 | [PDF](slides/math-eng/slide14.pdf) |
