@@ -11,8 +11,7 @@ hide:
 ## Refereed Papers and Proceedings
 1. K. Kanamori, K. Kobayashi, and T. Takagi: Distributionally robust algorithmic recourse for tree ensembles. Proceedings of the 40th Annual Conference on Neural Information Processing Systems, (2026), accepted. 
 1. H. Moriyama, J. Wu, H. Watanabe, D. Ochi, H. Kawata, S. Kanai, D. Yokota, R.D. Niklai, K. Kobayashi, and K. Nakata:  Prediction performance-based grouping for bubble-based federated learning in retail demand forecasting.  Proceedings of the 23rd Pacific Rim International Conference on Artificial Intelligence (Short Paper), (2026), accepted.
-1. S. Yamao, K. Kobayashi, R. Matsui, S. Nagai, N. Nishimura, and K. Nakata: Robust decision-focused learning via worst-case regret minimization. Proceedings of 42nd Annual Conference on Uncertainty in Artificial Intelligence, Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, (2026) 7701--7736.   
-<span class="badge bg-success"> <a target="blank"   href="https://openreview.net/forum?id=Ece1yX2MSs#discussion">Open Review </a> </span> 
+1. S. Yamao, K. Kobayashi, R. Matsui, S. Nagai, N. Nishimura, and K. Nakata: Robust decision-focused learning via worst-case regret minimization. Proceedings of 42nd Annual Conference on Uncertainty in Artificial Intelligence, Proceedings of the 42nd Conference on Uncertainty in Artificial Intelligence, (2026) 7701--7736.  <span class="badge bg-success"> <a target="blank"   href="https://openreview.net/forum?id=Ece1yX2MSs#discussion">Open Review </a> </span> 
 1. S. Aikawa, A. Suzuki, K. Yoshitake, K. Teshigawara, A. Iwabuchi, K. Kobayashi, and K. Nakata:Hierarchical time series forecasting with robust reconciliation. Transactions on Machine Learning Research, (2026). 
 <span class="badge bg-success"> <a target="blank"   href="https://openreview.net/forum?id=XHPLjF52gY">Open Review </a> </span> 
  &nbsp; 
