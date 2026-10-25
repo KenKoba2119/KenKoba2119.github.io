@@ -13,6 +13,9 @@ hide:
 
 
 ## International Conferences
+1. K. Kobayashi, Y. Takano, and K. Nakata:
+Cardinality-constrained distributionally robust portfolio optimization.
+Joint Workshop on Management Engineering and Analytics, Institute of Science Tokyo, October 2026.
 1. K. Kanamori, T. Takagi, K. Kobayashi, and Y. Ike:
 Learning decision trees and forests with algorithmic recourse. 
 The Seventh Conference on Discrete Optimization and Machine Learning (DOxML 2025), Kyoto University, May 2025.

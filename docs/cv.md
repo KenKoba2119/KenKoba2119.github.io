@@ -66,6 +66,10 @@ Apr 2015 – Mar 2021
 ## Awards
 
 <div class="cv" markdown>
+2026.09
+:   **第 46 回事例研究賞**<br>
+    <span class="cv-ja">日本オペレーションズ･リサーチ学会 ／ 西村直樹，安藤智弥，小林健，中田和秀</span>
+
 
 2023.09
 :   **第 13 回研究賞奨励賞**<br>
@@ -88,7 +92,7 @@ Apr 2015 – Mar 2021
     <span class="cv-ja">日本機械学会 生産システム部門 ／ 小林健</span>
 
 2016.09
-:   **事例研究賞**<br>
+:   **第 36 回 事例研究賞**<br>
     <span class="cv-ja">日本オペレーションズ・リサーチ学会 ／ 高野祐一, 山根智之, 吉田佑輔, 西村直樹, 小林健, 菅原光太郎, 中田和秀</span>
 
 2015.09
@@ -199,6 +203,8 @@ Apr 2015 – Mar 2021
 - Operations Research Perspectives
 - RAIRO - Operations Research
 - Transactions of the Operations Research Society in Japan
+- Transactions on Machine Learning Research
+
 
 </div>
 
@@ -206,4 +212,4 @@ Apr 2015 – Mar 2021
 
 - AAAI Conference on Artificial Intelligence &nbsp;<span class="badge bg-secondary">AAAI-22 Top 25% of Program Committee Members</span>
 - International Conference on Machine Learning &nbsp;<span class="badge bg-secondary">ICML-22 Top 10% of Reviewers</span>
-- Neural Information Processing Systems
+- Neural Information Processing Systems &nbsp;<span class="badge bg-secondary">NeurIPS-26 Top Reviewer</span>
