@@ -213,3 +213,5 @@ Apr 2015 – Mar 2021
 - AAAI Conference on Artificial Intelligence &nbsp;<span class="badge bg-secondary">AAAI-22 Top 25% of Program Committee Members</span>
 - International Conference on Machine Learning &nbsp;<span class="badge bg-secondary">ICML-22 Top 10% of Reviewers</span>
 - Neural Information Processing Systems &nbsp;<span class="badge bg-secondary">NeurIPS-26 Top Reviewer</span>
+- Pacific Rim International Conference on Artificial Intelligence
+- Winter Conference on Applications of Computer Vision
